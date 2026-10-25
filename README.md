@@ -1,2 +1,2 @@
 # singbass_website
-web site content for singbass.com
+This repository is web site content for the singbass.com web site.
