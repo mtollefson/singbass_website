@@ -1,27 +1,69 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Index of ExtraFiles</title>
-    <meta charset='utf-8'>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ExtraFiles</title>
     <style>
-        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; margin: 40px; background-color: #f9f9f9; color: #333; }
-        h1 { font-size: 1.5rem; border-bottom: 1px solid #ccc; padding-bottom: 10px; }
-        ul { list-style-type: none; padding: 0; }
-        li { padding: 8px 0; border-bottom: 1px solid #eee; }
-        a { color: #0066cc; text-decoration: none; font-size: 1.1rem; }
-        a:hover { text-decoration: underline; }
-        .parent-dir { font-weight: bold; color: #d9534f; }
+        body { font-family: Arial, sans-serif; margin: 40px; background-color: #f9f9f9; color: #333; }
+        .nav-up { margin-bottom: 20px; display: inline-block; text-decoration: none; color: #007bff; font-weight: bold; }
+        .nav-up:hover { text-decoration: underline; }
+        h2 { border-bottom: 2px solid #ddd; padding-bottom: 10px; margin-top: 0; }
+        table { width: 100%; border-collapse: collapse; background: white; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        th, td { padding: 12px 15px; border-bottom: 1px solid #eee; text-align: left; }
+        th { background-color: #f4f4f4; }
+        .actions a { 
+            text-decoration: none; 
+            padding: 6px 12px; 
+            border-radius: 4px; 
+            font-size: 14px; 
+            margin-right: 6px; 
+            display: inline-block;
+        }
+        .btn-view { background-color: #007bff; color: white; }
+        .btn-view:hover { background-color: #0056b3; }
+        .btn-download { background-color: #28a745; color: white; }
+        .btn-download:hover { background-color: #1e7e34; }
     </style>
 </head>
 <body>
-    <h1>Index of ExtraFiles</h1>
-    <ul>
-        <li><a class='parent-dir' href='..'>.. (Up one level)</a></li>
-        <li><a href='715_favicon_template.png' download>715_favicon_template.png</a></li>
-        <li><a href='capn_favicon.ico' download>capn_favicon.ico</a></li>
-        <li><a href='favicon.ico' download>favicon.ico</a></li>
-        <li><a href='HT_favicon.ico' download>HT_favicon.ico</a></li>
-        <li><a href='mvt_favicon.ico' download>mvt_favicon.ico</a></li>
-    </ul>
+
+    <!-- Link to go up to the parent directory -->
+    <a href="../index.html" class="nav-up">&larr; Up to Parent Directory</a>
+
+    <!-- Display the subdirectory name at the top -->
+    <h2>ExtraFiles</h2>
+
+    <table>
+        <thead>
+            <tr>
+                <th>File Name</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>715_favicon_template.png</td>
+                <td class="actions"><a href="715_favicon_template.png" target="_blank" class="btn-view">View</a> <a href="715_favicon_template.png" download class="btn-download">Download</a></td>
+            </tr>
+            <tr>
+                <td>HT_favicon.ico</td>
+                <td class="actions"><a href="HT_favicon.ico" download class="btn-download">Download</a></td>
+            </tr>
+            <tr>
+                <td>capn_favicon.ico</td>
+                <td class="actions"><a href="capn_favicon.ico" download class="btn-download">Download</a></td>
+            </tr>
+            <tr>
+                <td>favicon.ico</td>
+                <td class="actions"><a href="favicon.ico" download class="btn-download">Download</a></td>
+            </tr>
+            <tr>
+                <td>mvt_favicon.ico</td>
+                <td class="actions"><a href="mvt_favicon.ico" download class="btn-download">Download</a></td>
+            </tr>
+        </tbody>
+    </table>
+
 </body>
 </html>
