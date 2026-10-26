@@ -72,7 +72,7 @@ def create_directory_indexes(root_dir):
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{subdir_name}</title>
-    <link rel="icon" type="image/png" sizes="32x32" href="favicon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png">
     <style>
         body {{ font-family: Arial, sans-serif; margin: 40px; background-color: #f9f9f9; color: #333; }}
         .nav-up {{ margin-bottom: 20px; display: inline-block; text-decoration: none; color: #007bff; font-weight: bold; }}
