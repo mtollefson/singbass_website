@@ -1,0 +1,44 @@
+# ----- personal favorites
+alias a='alias'
+a cls='clear'
+a h='history'
+a ll='ls -lasF'
+a psa='ps -aux'
+# ----- safety related
+a rm='rm -i'
+a cp='cp -i'
+a mv='mv -i'
+a ln='ln -i'
+a chmod='chmod -c'
+a chown='chown -c'
+a df='df -h'
+a du='du -h'
+a free='free -h'
+# ----- sudo helpers
+a find='sudo find'
+a reboot='sudo reboot'
+a poweroff='sudo poweroff'
+# ----- APT / package management
+a apti='sudo apt install'
+a aptr='sudo apt remove'
+a aptp='sudo apt purge'
+a aptu='sudo apt update && sudo apt upgrade'
+a aptc='sudo apt autoclean && sudo apt autoremove'
+# ----- Disk, mounts, and hardware
+a mounts='mount | column -t'
+a lsblk='lsblk -o NAME,SIZE,FSTYPE,TYPE,MOUNTPOINTS'
+a disks='lsblk -fp'
+# ----- Networking helpers
+a ipinfo='ip -c addr'
+a ports='ss -tulpen'
+a pingg='ping -c 5 google.com'
+# ----- Logs & system state
+a jctl='journalctl -xe'
+a jboot='journalctl -b'
+a sysu='systemctl --failed'
+a sstatus='systemctl status'
+# ----- Quality-of-life utilities
+#a hist='history | tail -50'
+a path='echo -e ${PATH//:/\\n}'
+a now='date "+%Y-%m-%d %H:%M:%S"'
+# ----- end

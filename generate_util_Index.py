@@ -1,68 +1,140 @@
+#!/usr/bin/env python3
+"""
+Directory Index Generator for GitHub
+Version: 1.2.0
+Author: AI Assistant
+Date: October 2026
+
+Description:
+This script recursively traverses down into all subdirectories and sub-subdirectories.
+In each subdirectory, it generates an 'index.html' file listing its contents.
+
+Updates in v1.2.0:
+- Explicitly skips generating an index.html file in the root folder to protect your homepage.
+"""
+
 import os
+import sys
+import html
+import logging
 
-# Define paths relative to this script
-util_dir = os.path.join(os.path.dirname(__file__), 'util')
-output_file = os.path.join(util_dir, 'index.html')
+# Configure logging safely for all OS environments
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[logging.StreamHandler(sys.stdout)]
+)
 
-# Check if directory exists
-if not os.path.exists(util_dir):
-    print(f"Error: The directory '{util_dir}' does not exist.")
-    print("Please make sure you run this script next to your 'util' folder.")
-    exit(1)
+VERSION = "1.2.0"
 
-try:
-    # Scan directory and filter out index.html and hidden system files
-    files = os.listdir(util_dir)
-    file_list = [f for f in files if f != 'index.html' and not f.startswith('.')]
+def should_ignore(name: str) -> bool:
+    """
+    Determines if a file or directory should be ignored.
+    Filters out hidden files/folders (starting with '.') and common system artifacts.
+    """
+    if name.startswith('.'):
+        return True
     
-    # Sort files alphabetically
-    file_list.sort()
-
-    # Generate the <li> elements
-    if file_list:
-        list_items = "\n".join([f'            <li><a href="{f}" download class="download-link">{f}</a></li>' for f in file_list])
-    else:
-        list_items = '            <li style="color: #57606a; font-style: italic;">No tools found in this directory.</li>'
-
-    # Build template with home link and custom title
-    html_content = f'''<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Useful Tools</title>
-    <style>
-        body {{ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; margin: 40px; background: #f6f8fa; color: #24292f; }}
-        .container {{ max-width: 600px; margin: 0 auto; background: #ffffff; padding: 32px; border: 1px solid #d0d7de; border-radius: 6px; box-shadow: 0 1px 3px rgba(0,0,0,0.05); }}
-        .header {{ display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; padding-bottom: 8px; border-bottom: 1px solid #d0d7de; }}
-        h1 {{ font-size: 24px; margin: 0; }}
-        .home-link {{ text-decoration: none; color: #57606a; font-size: 14px; font-weight: 500; }}
-        .home-link:hover {{ color: #0969da; text-decoration: underline; }}
-        ul {{ list-style: none; padding: 0; margin: 0; }}
-        li {{ padding: 12px 12px; border-bottom: 1px solid #d0d7de; display: flex; align-items: center; }}
-        li:last-child {{ border-bottom: none; }}
-        a.download-link {{ text-decoration: none; color: #0969da; font-weight: 500; word-break: break-all; }}
-        a.download-link:hover {{ text-decoration: underline; }}
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="header">
-            <h1>Useful Tools</h1>
-            <a href="../" class="home-link">← Back to Home</a>
-        </div>
-        <ul>
-{list_items}
-        </ul>
-    </div>
-</body>
-</html>'''
-
-    # Write file out safely with UTF-8 encoding
-    with open(output_file, 'w', encoding='utf-8') as f:
-        f.write(html_content)
+    ignored_names = {'node_modules', '__pycache__', 'Thumbs.db'}
+    if name in ignored_names:
+        return True
         
-    print(f"Success! Generated index.html inside '{util_dir}' with {len(file_list)} files.")
+    return False
 
-except Exception as e:
-    print(f"An error occurred: {e}")
+def generate_index_html(dir_path: str) -> None:
+    """
+    Generates an index.html file in a subdirectory containing links
+    to non-hidden files and folders.
+    """
+    index_file_path = os.path.join(dir_path, "index.html")
+    
+    try:
+        try:
+            raw_items = os.listdir(dir_path)
+        except PermissionError:
+            logging.warning(f"Permission denied: {dir_path}. Skipping.")
+            return
+        except FileNotFoundError:
+            logging.error(f"Directory not found: {dir_path}. Skipping.")
+            return
+
+        items = [item for item in raw_items if not should_ignore(item) and item != "index.html"]
+        items.sort(key=lambda s: s.lower())
+
+        display_name = html.escape(os.path.basename(os.path.abspath(dir_path)) or dir_path)
+        
+        html_content = [
+            "<!DOCTYPE html>",
+            "<html>",
+            "<head>",
+            f"    <title>Index of {display_name}</title>",
+            "    <meta charset='utf-8'>",
+            "    <style>",
+            "        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; margin: 40px; background-color: #f9f9f9; color: #333; }",
+            "        h1 { font-size: 1.5rem; border-bottom: 1px solid #ccc; padding-bottom: 10px; }",
+            "        ul { list-style-type: none; padding: 0; }",
+            "        li { padding: 8px 0; border-bottom: 1px solid #eee; }",
+            "        a { color: #0066cc; text-decoration: none; font-size: 1.1rem; }",
+            "        a:hover { text-decoration: underline; }",
+            "        .parent-dir { font-weight: bold; color: #d9534f; }",
+            "    </style>",
+            "</head>",
+            "<body>",
+            f"    <h1>Index of {display_name}</h1>",
+            "    <ul>",
+            "        <li><a class='parent-dir' href='..'>.. (Up one level)</a></li>" # Subdirectories always have a parent
+        ]
+
+        for item in items:
+            full_item_path = os.path.join(dir_path, item)
+            is_dir = os.path.isdir(full_item_path)
+            display_item_name = f"{item}/" if is_dir else item
+            
+            escaped_href = html.escape(item)
+            escaped_text = html.escape(display_item_name)
+            
+            download_attr = "" if is_dir else " download"
+            html_content.append(f"        <li><a href='{escaped_href}'{download_attr}>{escaped_text}</a></li>")
+
+        html_content.extend([
+            "    </ul>",
+            "</body>",
+            "</html>"
+        ])
+
+        with open(index_file_path, "w", encoding="utf-8") as f:
+            f.write("\n".join(html_content))
+            
+        logging.info(f"Generated index: {index_file_path}")
+
+    except Exception as e:
+        logging.error(f"Error handling index in {dir_path}: {str(e)}")
+
+
+def main() -> None:
+    """
+    Main directory crawler loop.
+    """
+    root_dir = os.getcwd()
+    logging.info(f"Starting Subdirectory Index Generator v{VERSION}")
+    logging.info(f"Targeting Subdirectories beneath: {root_dir}")
+
+    for root, dirs, files in os.walk(root_dir, topdown=True):
+        dirs[:] = [d for d in dirs if not should_ignore(d)]
+        
+        # Check if current folder is the main execution root directory
+        if os.path.abspath(root) == os.path.abspath(root_dir):
+            logging.info("Skipping root folder to preserve welcome homepage.")
+            continue  # Do not generate an index.html here, proceed to sub-folders
+            
+        generate_index_html(root)
+
+    logging.info("Process finished successfully.")
+
+
+if __name__ == "__main__":
+    try:
+        main()
+    except KeyboardInterrupt:
+        logging.warning("\nProcess aborted by user.")
+        sys.exit(1)
