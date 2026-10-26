@@ -1,31 +1,39 @@
 import os
 
 # Script Version
-VERSION = "1.1.0"
+VERSION = "1.2.0"
 
-# Define file extensions that are natively displayable by modern web browsers
-DISPLAYABLE_EXTENSIONS = {
+# File extensions natively displayable by modern web browsers
+NATIVE_DISPLAYABLE = {
     '.txt', '.md', '.html', '.htm', '.css', '.js', '.json', 
     '.png', '.jpg', '.jpeg', '.gif', '.svg', '.pdf', '.csv', '.xml'
+}
+
+# File extensions supported by Google Docs Viewer (.docx, .xlsx, etc.)
+GDOCS_DISPLAYABLE = {
+    '.docx', '.doc', '.xlsx', '.xls', '.pptx', '.ppt'
 }
 
 def generate_link_lines(filename):
     """
     Separate function to generate the HTML link string(s) for a given file.
-    - Displayable files get both a 'View' and 'Download' link.
-    - Non-displayable files get ONLY a 'Download' link.
+    - Natively viewable files get a direct 'View' and 'Download' link.
+    - Google Docs compatible files get a 'View (Google Docs)' and 'Download' link.
+    - Other files get ONLY a 'Download' link.
     """
     _, ext = os.path.splitext(filename.lower())
     
     # Every file gets a download link
     download_link = f'<a href="{filename}" download class="btn-download">Download</a>'
     
-    # Check if the file type can be displayed natively in a browser
-    if ext in DISPLAYABLE_EXTENSIONS:
+    if ext in NATIVE_DISPLAYABLE:
         view_link = f'<a href="{filename}" target="_blank" class="btn-view">View</a>'
         return f'{view_link} {download_link}'
+    elif ext in GDOCS_DISPLAYABLE:
+        # Uses data-file so JavaScript can dynamically construct the absolute Google Docs URL
+        gdocs_link = f'<a href="#" class="btn-gdocs dynamic-gdocs" data-file="{filename}">View (Google Docs)</a>'
+        return f'{gdocs_link} {download_link}'
     else:
-        # Return only the download link for unsupported/non-displayable formats
         return download_link
 
 def create_directory_indexes(root_dir):
@@ -35,7 +43,6 @@ def create_directory_indexes(root_dir):
     """
     root_dir = os.path.abspath(root_dir)
     
-    # os.walk traverses the directory tree
     for current_path, dirs, files in os.walk(root_dir):
         # Prune hidden subdirectories (e.g., .git, .vscode) in-place so os.walk ignores them entirely
         dirs[:] = [d for d in dirs if not d.startswith('.')]
@@ -83,6 +90,8 @@ def create_directory_indexes(root_dir):
         }}
         .btn-view {{ background-color: #007bff; color: white; }}
         .btn-view:hover {{ background-color: #0056b3; }}
+        .btn-gdocs {{ background-color: #6c757d; color: white; }}
+        .btn-gdocs:hover {{ background-color: #5a6268; }}
         .btn-download {{ background-color: #28a745; color: white; }}
         .btn-download:hover {{ background-color: #1e7e34; }}
     </style>
@@ -123,6 +132,16 @@ def create_directory_indexes(root_dir):
         html_content += """        </tbody>
     </table>
 
+    <!-- Script to dynamically generate Google Docs Viewer absolute URLs when hosted on GitHub Pages -->
+    <script>
+        document.querySelectorAll('.dynamic-gdocs').forEach(link => {
+            const fileName = link.getAttribute('data-file');
+            const absoluteUrl = new URL(fileName, window.location.href).href;
+            link.href = `https://docs.google.com/viewer?url=${encodeURIComponent(absoluteUrl)}`;
+            link.target = '_blank';
+        });
+    </script>
+
 </body>
 </html>
 """
@@ -147,3 +166,4 @@ if __name__ == '__main__':
         print("\nProcess completed successfully!")
     except Exception as e:
         print(f"\n[Fatal Error] An unexpected error occurred: {e}")
+        

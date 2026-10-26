@@ -22,6 +22,8 @@
         }
         .btn-view { background-color: #007bff; color: white; }
         .btn-view:hover { background-color: #0056b3; }
+        .btn-gdocs { background-color: #6c757d; color: white; }
+        .btn-gdocs:hover { background-color: #5a6268; }
         .btn-download { background-color: #28a745; color: white; }
         .btn-download:hover { background-color: #1e7e34; }
     </style>
@@ -64,6 +66,16 @@
             </tr>
         </tbody>
     </table>
+
+    <!-- Script to dynamically generate Google Docs Viewer absolute URLs when hosted on GitHub Pages -->
+    <script>
+        document.querySelectorAll('.dynamic-gdocs').forEach(link => {
+            const fileName = link.getAttribute('data-file');
+            const absoluteUrl = new URL(fileName, window.location.href).href;
+            link.href = `https://docs.google.com/viewer?url=${encodeURIComponent(absoluteUrl)}`;
+            link.target = '_blank';
+        });
+    </script>
 
 </body>
 </html>
