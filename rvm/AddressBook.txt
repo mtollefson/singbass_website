@@ -1,0 +1,1496 @@
+	Name	Address	Unit #	Phone	Email
+	Grace Abbott	Lake Village Drive	1719	(541) 857-6616 (p)
+(541) 200-5787 (m)	agracea1933@gmail.com
+	Paul Ackerman	Meadow View Drive	1609	(541) 857-6546	p_ackerman@msn.com
+	Gaea Adams	Main Manor	70	(541) 857-6801	adamsrvm@gmail.com
+	John Addicott	Skyline Drive	1126	(541) 857-6374 (p)
+(541) 801-8544 (m)	jaddicot@ucalgary.ca
+	Debbie Adler	One Skyline Drive-Plaza	3510	(541) 857-6906	debbieadler8@gmail.com
+	Janet Aldrich	Main Manor	1016	(541) 857-6911 (p)
+(530) 304-0357 (m)	JALDRICH2@ME.COM
+	Jean Allard	Pear Tree Lane	1317	(541) 857-6650	jeanallard@outlook.com
+	Roberta Allen	Pear Tree Lane	1307	(541) 857-6020	robertaaallen@hotmail.com
+	Eldon Allsup	Quail Point Circle	35	(541) 857-6523 (p)
+(831) 809-4222 (m)	eeallsup@gmail.com
+	Elaine Anderson	Quail Point Court	2129	(541) 857-6791 (p)
+(360) 544-2795 (m)	mzekanderson@gmail.com
+	Sunny Anderson	Main Manor	325	(541) 857-6483 (p)
+(541) 301-4859 (m)	sunny.anderson1@gmail.com
+	Jerry Anderson	Pear Tree Lane	1323	(541) 857-6931	janderson6931@gmail.com
+	Mae Anderson	Care Suites	4122	(541) 857-6459	
+	Marilyn Anderson	One Skyline Drive-Plaza	3215	(541) 857-6097 (p)
+(541) 631-8400 (m)	rvmMarilyn@gmail.com
+	Sara Anderson	Pear Tree Lane	1323	(541) 857-6931 (p)
+(541) 941-0444 (m)	janderson6931@gmail.com
+	Tom Anderson	Quail Point Court	2129	(541) 857-6791 (p)
+(360) 544-2795 (m)	flightdivedoc@gmail.com
+	Joe Andrews	Main Manor	630	(541) 857-6642 (p)
+(541) 944-1134 (m)	andrewss.andrews@gmail.com
+	Susan Andrews	Main Manor	630	(541) 857-6642 (p)
+(541) 840-3158 (m)	andrewss.andrews@gmail.com
+	Hal Antonson		3507	(541) 857-6823 (p)
+(360) 292-8555 (m)	hala_ms@msn.com
+	John Apostol	One Skyline Drive-Plaza	3305	(541) 857-6833 (p)
+(541) 414-8621 (m)	johnapostol911@gmail.com
+	Karen Apostol	One Skyline Drive-Plaza	3305	(541) 857-6833 (p)
+(541) 840-2533 (m)	743jonwts@gmail.com
+	Gini Armstrong	One Skyline Drive-Plaza	3315	(541) 857-6198	giniarmstrongrvm@gmail.com
+	Maryann Aruti	Main Manor	831	(541) 857-6712 (p)
+(925) 381-2718 (m)	aruti2012@gmail.com
+	Carolyn Auker	Horizon Lane	1214	(541) 857-6738 (p)
+(209) 355-4131 (m)	guzauker@yahoo.com
+	Joan Avery	Rogue Valley Manor Drive	2400	(541) 857-6236 (p)
+(541) 973-4142 (m)	mailjoanavery@charter.net
+	Richard Avery	Rogue Valley Manor Drive	2400	(541) 857-6236 (p)
+(541) 690-6108 (m)	roavery@charter.net
+	Cristina Avila Summerville	Main Manor	309	(541) 857-6915 (p)
+(650) 483-9373 (m)	cristina@summerville.com
+	Dean Ayers	Main Manor	607	(541) 857-6528	rdayers@csulb.edu
+	Rick Baggott	One Skyline Drive-Plaza	3209	(541) 857-6700 (p)
+(541) 646-5733 (m)	rickb15@rocketmail.com
+	Dave Baker	2401 Nieto Way- HS#2401	2401NW	(541) 857-6849	rafterdave@aol.com
+	Jacquelyne Baker	2401 Nieto Way- HS#2401	2401NW	(541) 857-6849 (p)
+(541) 227-8046 (m)	farmorjbb@aol.com
+	Jan Baker	Lake Village Drive	1721	(541) 857-6491 (p)
+(541) 890-3019 (m)	janbaker@mind.net
+	Ann Bakey-Dengler	Horizon Lane	1226	(541) 857-6794 (p)
+(408) 219-2578 (m)	ann.bakey@sbcglobal.net
+	Marti Baldwin	Skyline Drive	1120	(541) 857-6433 (p)
+(408) 420-2954 (m)	mebaldwin2u@yahoo.com
+	Susan Ball	Meadow View Drive	1608	(541) 857-6944	susanball39@icloud.com
+	Bert Bamforth	Quail Point Terrace	2216	(541) 857-6637 (p)
+(541) 601-4786 (m)	bertbam4th@gmail.com
+	Judy Bamforth	Quail Point Terrace	2216	(541) 857-6637 (p)
+(541) 261-2918 (m)	judybam4th@gmail.com
+	Tony Barrett	One Skyline Drive-Plaza	3214	(541) 857-6782 (p)
+(218) 464-3946 (m)	tbarrett@css.edu
+	Donna Barrett	Skyline Drive	1106	(541) 857-6212 (p)
+(541) 499-9304 (m)	donnab2214@gmail.com
+	Karen Barrow	Meadow View Drive	1627	(541) 857-6128 (p)
+(541) 941-6299 (m)	barrowkaren@yahoo.com
+	Erika Barrows	Care Suites	4105	HIDDEN	
+	Don Barry	Meadow View Drive	1632	(541) 857-6571 (p)
+(202) 285-2511 (m)	winebyer@gmail.com
+	Harlan Barry	Wildflower Circle	1903	(541) 857-6678 (p)
+(707) 494-6090 (m)	hbarry1000@gmail.com
+	Laura Barry	Wildflower Circle	1903	(541) 857-6678 (p)
+(707) 235-3258 (m)	laurabarry.39@gmail.com
+	Paul Barth	Main Manor	901	(541) 857-6078 (p)
+(530) 209-8000 (m)	paul@paulbarth.com
+	Jill Bartky	Horizon Lane	1211	(541) 857-6926	jillbartky@outlook.com
+	Mike Barton	Village Center Drive	1510	(541) 857-6827 (p)
+(239) 220-3477 (m)	barton4087@comcast.net
+	Rene Barton	Village Center Drive	1510	(541) 857-6827 (p)
+(941) 505-6900 (m)	renebarton@comcast.net
+	Dave Basden	Care Suites	4109	(541) 857-6775	basden.david@gmail.com
+	JoAnn Basin	Terrace Residential Living	4202	(541) 857-6716	jomike6rvm@gmail.com
+	Ron Bass	Terrace	4402	(541) 857-6664 (p)
+(541) 324-0237 (m)	trbass@gmail.com
+	Tracy Bass	Terrace	4402	(541) 857-6664 (p)
+(541) 324-8882 (m)	trbass@gmail.com
+	Sandy Becker	Pear Tree Lane	1331	(541) 857-6471 (p)
+(707) 843-7878 (m)	sandybecker2@gmail.com
+	Ed Bennett	Manor Terrace	4412	(541) 857-6068	
+	Glenda Weber Bennett	Manor Terrace	4412	(541) 857-6068 (p)
+(541) 469-2731 (m)	edwinglenda@gmail.com
+	Elouise Bergen	One Skyline Drive-Plaza	3404	(541) 857-6334 (p)
+(925) 998-8994 (m)	elouisebergen59@gmail.com
+	Margie Berger	Quail Point Circle	2306	(541) 857-6579 (p)
+(707) 370-5887 (m)	mbberger2@gmail.com
+	Bob Berger	Quail Point Circle	2306	(541) 857-6579 (p)
+(707) 370-5887 (m)	mbberger03@gmail.com
+	Joan Berglund	Main Manor	808	(541) 857-6358	
+	Dave Bernard	Lake Village Drive	1715	(541) 857-6468 (p)
+(541) 944-9047 (m)	dbernard@darex.com
+	Marge Bernard	Lake Village Drive	1715	(541) 857-6468 (p)
+(541) 840-8386 (m)	margebernard@gmail.com
+	Donna Bevan Lee	Quail Point Circle	2113	(541) 857-6478 (p)
+(206) 818-5307 (m)	donna.bevanlee@gmail.com
+	Colette Bevlaqua	Village Center Drive	1434	(541) 857-6385 (p)
+(303) 795-3274 (m)	bevlaqua@gmail.com
+	Don Bevlaqua	Village Center Drive	1434	(541) 857-6385 (p)
+(303) 908-4195 (m)	ddbclb22@gmail.com
+	Kumar Bhasin	Lake Village Drive	1714	(541) 857-6082	kbhasin712@gmail.com
+	Roberta Bhasin	Lake Village Drive	1714	(541) 857-6082 (p)
+(720) 560-5278 (m)	robertabhasin@gmail.com
+	Kay Bithell	Quail Point Terrace	2213	(541) 857-6225 (p)
+(541) 382-7014 (m)	kaybithell2014@gmail.com
+	Evie Black	One Skyline Drive	3509	(541) 857-6255 (p)
+(808) 265-9936 (m)	eblack955@aol.com
+	Julie Black	One Skyline Drive-Plaza	3409	(541) 857-6312 (p)
+(541) 810-1637 (m)	mikejulieb@gmail.com
+	Mike Black	One Skyline Drive-Plaza	3409	(541) 857-6312 (p)
+(541) 810-1638 (m)	mikejulieb@gmail.com
+	Sol Blechman	Wildflower Drive	1804	(541) 857-6332 (p)
+(541) 778-6886 (m)	sol.blechman@gmail.com
+	Jane Blomquist	Skyline Drive	1105	(541) 857-6027 (p)
+(818) 271-9804 (m)	robjane@mindspring.com
+	Judy Blue	Pear Tree Lane	1321	(541) 857-6269 (p)
+(541) 419-0344 (m)	bluefj50@gmail.com
+	Bette Bohler	Village Center Drive	1411	(541) 857-6501 (p)
+(650) 346-5057 (m)	bbohler@pacbell.net
+	Cindy Bollens	Rogue Valley Manor Drive	2418	(541) 857-6377	cindybollens2418@gmail.com
+	Timothy Bolling	Horizon Lane	1220	(541) 857-6881 (p)
+(510) 410-1738 (m)	ntny773tcb@aol.com
+	Lynne Bonetti	Skyline Drive	1138	(541) 857-6472 (p)
+(530) 410-1740 (m)	lynnebonetti@mac.com
+	Rick Bonetti	Skyline Drive	1138	(541) 857-6472 (p)
+(408) 857-8800 (m)	rickbonetti@gmail.com
+	Mary Borchert	Main Manor	423	(541) 857-6541	
+	Jeanne Boswell	Main Manor	311	(541) 857-6116 (p)
+(541) 863-9236 (m)	mjboswell43@gmail.com
+	Jeannette Bournival	Wildflower Drive	1811	(541) 857-6819 (p)
+(760) 382-3633 (m)	jabournival@gmail.com
+	Janet Bourque	Meadow View Drive	1618	(541) 857-6337	janetbourque@gmail.com
+	Carol Bourret	Main Manor	1029	(541) 857-6627 (p)
+(541) 930-9093 (m)	4cbourret@gmail.com
+	Scott Bowman	Terrace	4308	(541) 857-6537 (p)
+(541) 591-7490 (m)	
+	Christine Boyd	Quail Point Court	2123	(541) 857-6298 (p)
+(907) 830-0385 (m)	chrisbo@gci.net
+	Kim Boyle	Horizon Lane	1206	(541) 857-6522 (p)
+(650) 862-4944 (m)	boylekp@pacbell.net
+	Pat Boyle	Horizon Lane	1206	(541) 857-6522 (p)
+(650) 714-3386 (m)	boylepdb@pacbell.net
+	Teresa Boyles	Memory Support Center	208	(541) 857-6155 (p)
+(541) 864-0355 (m)	t.boyles@me.com
+	Donna Branaman	Skyline Drive	1135	(541) 857-6393 (p)
+(510) 710-6181 (m)	chipperdonnab@gmail.com
+	Fred Branaman	Skyline Drive	1135	(510) 220-6491 (m)	mindfulguy@comcast.net
+	Kathleen Brandon	Main Manor	626	(541) 857-6170 (p)
+(435) 640-2354 (m)	kvb0702@msn.com
+	Ken Brandt	Lake Village Drive	1722	(541) 857-6264 (p)
+(707) 228-9673 (m)	kenbrandt70@gmail.com
+	John Brickell	Manor Terrace	4411	(541) 857-6656 (p)
+(425) 891-9290 (m)	johnbrickell@me.com
+	Nattie Brickell	Manor Terrace	4411	(541) 857-6656 (p)
+(425) 830-8884 (m)	nattiebrickell@icloud.com
+	Juanita Bright	Main Manor	1020	(541) 857-6074	jbrightrvm@gmail.com
+	Carole Brown	One Skyline Drive-Plaza	3314	(541) 857-6914 (p)
+(541) 210-4415 (m)	c.brown123134@gmail.com
+	Charles Brown	Meadow View Drive	1628	(541) 857-6975	synergy@startmail.com
+	Hildegard Brown	Main Manor	906	(541) 857-6346	
+	Virginia Brown	Meadow View Drive	1628	(541) 857-6975 (p)
+(541) 890-0795 (m)	talentgardener@gmail.com
+	Marilyn Brummett	Main Manor	426	(541) 857-6576	Sewing.fun1216@gmail.com
+	Sandy Burd	Manor Terrace	4219	(541) 857-6990	sandybu@hotmail.com
+	John Burns	Terrace	4305	(541) 857-6231 (p)
+(503) 419-7708 (m)	jjburns69@gmail.com
+	Marsha Burns	Terrace	4305	(541) 857-6231 (p)
+(503) 419-7708 (m)	mlwbjjb@gmail.com
+	Karen Byrd	Lake Village Drive	1717	(541) 857-6904	kbbyrd@outlook.com
+	Liz Caldwell	Skyline Drive	1110	(541) 857-6795 (p)
+(612) 257-5910 (m)	lcmb93442@gmail.com
+	Lyn Callahan	Main Manor	802	(541) 857-6311 (p)
+(541) 539-9242 (m)	lcallahan200@gmail.com
+	Shelly Campbell	Wildflower Circle	1914	(541) 857-6266 (p)
+(808) 478-2082 (m)	campshelly@gmail.com
+	Russ Cannon	Main Manor	421	(541) 857-6396 (p)
+(541) 678-3128 (m)	cannonrvm@gmail.com
+	Jay Carlisle	Wildflower Drive	1807	(541) 857-6118 (p)
+(914) 434-0805 (m)	carlisle.jay@gmail.com
+	George Carlson	Quail Point Circle	2304	(541) 857-6322 (p)
+(541) 261-9911 (m)	glcklcjv@gmail.com
+	Kathe Carlson	Quail Point Circle	2304	(541) 857-6322 (p)
+(541) 326-5857 (m)	kathecarlson@gmail.com
+	Marti Carlson	Quail Point Circle	2301	(541) 857-6675 (p)
+(541) 778-6933 (m)	marticarlson60@yahoo.com
+	Richard Carlson	Quail Point Circle	2301	(541) 857-6675 (p)
+(541) 842-0443 (m)	richcarlson62@me.com
+	Kathy Carstens	Village Center Drive	1405	(541) 857-6314 (p)
+(541) 592-9295 (m)	bumsonwheels@gmail.com
+	Tom Carstens	Village Center Drive	1405	(541) 857-6314 (p)
+(541) 846-1025 (m)	bumsonwheels@gmail.com
+	Bob Carter	1117 Shannon Dr-House #6	1117SD	(541) 857-6655 (p)
+(541) 499-7975 (m)	carter@mcn.org
+	Tom Castle	Malama Way	1501	(541) 857-6785 (p)
+(925) 286-7998 (m)	tfcplh@gmail.com
+	Marla Cates	Village Center Drive	1430	(541) 857-6682 (p)
+(541) 840-3418 (m)	marlacates.k@gmail.com
+	Allison Cellars	Wildflower Circle	1912	(541) 857-6574	allisonzcellars@icloud.com
+	Ginnie Chadwick	Main Manor	931	(541) 857-6168 (p)
+(559) 908-3607 (m)	ginniebeth@me.com
+	Diane Chance	Main Manor	609	(541) 857-6303	decfeb23@gmail.com
+	Chuck Chase	Main Manor	811	(541) 857-6769 (p)
+(541) 816-9980 (m)	aquila9chase@aol.com
+	Shirley Chater	One Skyline Drive-Plaza	3613	(541) 857-6777 (p)
+(415) 686-0073 (m)	shirleychater713@gmail.com
+	Fay Chezik	Manor Terrace	4303	(541) 857-6196 (p)
+(541) 941-1508 (m)	smchez@yahoo.com
+	Ray Chezik	Manor Terrace	4303	(541) 857-6196 (p)
+(541) 941-1508 (m)	smchez@yahoo.com
+	Arlene Ching	Main Manor	712	(541) 857-6690	rvmmanini@gmail.com
+	Steven Ching	Main Manor	712	(541) 857-6690	rvmmanini@gmail.com
+	Marilyn Chiodo		509	(541) 857-6069 (p)
+(703) 655-7085 (m)	marilynchiodo543@gmail.com
+	Ron Chiodo	Main Manor	509	(541) 857-6069 (p)
+(703) 655-7085 (m)	centrum72@gmail.com
+	Joseph Chou	Main Manor	1027	(541) 857-6479 (p)
+(302) 545-4191 (m)	choudmd@gmail.com
+	Carole Chumbler	One Skyline Drive- Plaza	3202	(541) 857-6749	geraldneverdid@gmail.com
+	David Churchman	Memory Support Center	213	(541) 857-6443	davidachurchman@aol.com
+	Taffy Clarke Pelton	Skyline Drive	1113	(541) 857-6090 (p)
+(541) 890-2980 (m)	taffy@taffyclarkepelton.com
+	Joann Cleckner	Quail Point Court	2131	(541) 857-6107 (p)
+(707) 782-8440 (m)	jzccpa@sonic.net
+	Bill Clough	Terrace Residential Living	4216	HIDDEN	
+	Meyer Cohen	Terrace Residential Living	44	(541) 857-6350	
+	Sylvia Cole	One Skyline Drive-Plaza	3410	(541) 857-6241	tricorsylvia@gmail.com
+	Harry Colehower	Village Center Drive	1409	(541) 857-6647	
+	Bill Coleman	Skyline Drive	1132	(541) 857-6532	
+	Mike Collins	Shannon Drive	1203-2	(541) 857-6450 (p)
+(206) 484-1557 (m)	mikecollins512@gmail.com
+	Sue Collins	Shannon Drive	1203-2	(541) 857-6450	collins31sue@gmail.com
+	Michael Conboy	Main Manor	401	(541) 857-6288 (p)
+(707) 496-1456 (m)	stoichaze@icloud.com
+	Tom Conger	Quail Point Terrace	2210	(541) 857-6803 (p)
+(603) 667-3931 (m)	tcink85@gmail.com
+	Fred Conrad	Health Center	50	(541) 857-6706 (p)
+(650) 862-4096 (m)	
+	Sue Conrad	Rogue Valley Manor Drive	2403	(541) 857-6706 (p)
+(408) 832-4642 (m)	fconrad_99@yahoo.com
+	Mary Coombs	Manor Terrace	4312	(541) 857-6420 (p)
+(305) 753-7911 (m)	maryirenecoombs@gmail.com
+	Jim Covell	Village Center Drive	1507	(541) 857-6048	984auc@seabear.net
+	Jaqueline Covell	Village Center Drive	1507	(541) 857-6048 (p)
+(858) 243-3838 (m)	nex089@att.net
+	Bob Crawford	One Skyline Drive	3505	(541) 857-6285 (p)
+(541) 499-2360 (m)	bcraw4dmd@gmail.com
+	Wendy Crawford	One Skyline Drive	3505	(541) 857-6285 (p)
+(541) 499-2361 (m)	wendycraw4d@gmail.com
+	Julie Crites	2409 Nieto Way-HS#9	2409NW	(541) 857-6480 (p)
+(909) 518-2460 (m)	ohanacrites@gmail.com
+	Penelope Crittenden	Pear Tree Lane	1315	(541) 857-6470 (p)
+(541) 324-8375 (m)	pcrit@me.com
+	Carita Culmer	Main Manor	820	(541) 857-6880 (p)
+(541) 944-1832 (m)	
+	Richard Cunning	Main Manor	816	(541) 857-6126	roguevilla@outlook.com
+	Heidi Cunningham	Quail Point Circle	2303	(541) 857-6364 (p)
+(650) 248-5527 (m)	cheidi358@gmail.com
+	Harry Cure	Meadow View Drive	1613	(541) 857-6026	hmcure@earthlink.net
+	Maria Cure	Meadow View Drive	1613	(541) 857-6026 (p)
+(503) 550-7418 (m)	hmcure@earthlink.net
+	Lola Curl	Main Manor	72	(541) 857-6392	lcurlup2@gmail.com
+	Dan Curtis	Manor Terrace	4405	(541) 857-6899 (p)
+(510) 703-3557 (m)	dbcurtis@gmail.com
+	Merrill Cutting	Main Manor	614	(541) 857-6945 (p)
+(808) 255-5446 (m)	merrillcutting@gmail.com
+	Martha Daura	Main Manor	416	(541) 857-6658	dauramapp@gmail.com
+	Bonnie De Vos	Quail Point Circle	2114	(541) 857-6654 (p)
+(458) 225-0500 (m)	bonnie6devos@gmail.com
+	Geraldine De Vos	Quail Point Terrace	2208	(541) 857-6490 (p)
+(541) 841-0882 (m)	jdevos7712@gmail.com
+	Jim De Vos	Quail Point Circle	2114	(541) 857-6654 (p)
+(541) 200-9398 (m)	jimbonniedevos@gmail.com
+	Paul De Vos	Quail Point Terrace	2208	(541) 857-6490	jdevos7712@gmail.com
+	Ella Deacon	Village Center Drive	1406	(541) 857-6190 (p)
+(510) 260-4103 (m)	ersigmund@aol.com
+	Terry Deacon	Village Center Drive	1406	541-857-6190 (p)
+510-691-9332 (m)	deacon@berkeley.edu
+	Dave Dealey	Wildflower Drive	1810	(541) 857-6056 (p)
+(541) 690-5708 (m)	eydealey@outlook.com
+	Liz Dealey	Wildflower Drive	1810	(541) 857-6056	eydealey@outlook.com
+	Claire DeBor	Horizon Lane	1208	(541) 857-6909 (p)
+(360) 440-2003 (m)	clairedebor3@gmail.com
+	Tom DeBor	Horizon Lane	1208	(541) 857-6909 (p)
+(360) 440-2003 (m)	tadebor@outlook.com
+	June DeBuhr	One Skyline Drive-Plaza	3606	(541) 857-6016 (p)
+(530) 643-0081 (m)	junedebuhr@gmail.com
+	Milt DeBuhr	One Skyline Drive-Plaza	3606	(541) 857-6016 (p)
+(530) 598-5234 (m)	miltdebuhr@gmail.com
+	Cameron Deen	Skyline Drive	1115	(541) 857-6120	fitzdeen@hotmail.com
+	John Dege	Pear Tree Lane	1318	(541) 857-6908 (p)
+(831) 233-2614 (m)	john.dege@gmail.com
+	Pat Dege	Pear Tree Lane	1318	(541) 857-6908 (p)
+(831) 392-6845 (m)	patdege@gmail.com
+	Tom DeHart	Lake Village Drive	1707	(541) 857-6620 (p)
+(925) 640-8873 (m)	dehart0107@gmail.com
+	Yetta DeHart	Lake Village Drive	1707	(541) 857-6620 (p)
+(925) 640-8873 (m)	dehart0107@gmail.com
+	Jim DeMello	Main Manor	1024	(541) 857-6808 (p)
+(415) 847-2742 (m)	jimdemelli@gmail.com
+	Charles DeNeef	Quail Point Circle	2302	(541) 857-6445	pdmail682@gmail.com
+	Susan DeNeef	Memory Support Center	318		
+	Rich Dengler	Horizon Lane	1226	(541) 857-6794 (p)
+(408) 368-6018 (m)	
+	Al Densmore	Main Manor	409	(541) 857-6140 (p)
+(541) 601-0704 (m)	aldensmore1971@outlook.com
+	Sally Densmore	Main Manor	409	(541) 857-6140	sdensmore65@gmail.com
+	Rita Derbas	Manor Terrace	4405	(541) 857-6899	
+	Laura DeYarman	Village Center Drive	1427	(541) 857-6762 (p)
+(541) 941-8297 (m)	lauradey1952@gmail.com
+	Dee DHaem	Manor Terrace	4403	(541) 857-6164 (p)
+(360) 481-0102 (m)	
+	Bill DHaem	Manor Terrace	4403	(541) 857-6164 (p)
+(360) 481-0103 (m)	dhaem@wavecable.com
+	Cliff Dickason	Main Manor	814	(541) 857-6323	jennyclif@mailstation.com
+	Gordon Dickerson	Quail Point Terrace	2202	(541) 857-6017	gwd6son@gmail.com
+	Adelle DiGiorgio	Lake Village Drive	1713	(541) 857-6117 (p)
+(360) 213-6196 (m)	adelled07@gmail.com
+	Anne Diller	One Skyline Drive-Plaza	3301	(541) 857-6386	acdiller5@gmail.com
+	Phyllis Douglas	Rogue Valley Manor Drive	2404	(541) 857-6360 (p)
+(541) 261-5208 (m)	gpdouglas2775@gmail.com
+	David Douthit	Quail Point Terrace	2211	(541) 857-6787 (p)
+(206) 310-2646 (m)	dtdouthit@msn.com
+	Norma Douthit	Quail Point Terrace	2211	(541) 857-6787 (p)
+(425) 503-5434 (m)	norma-icm@msn.com
+	Maureen Dowd	Care Suites	55	(541) 857-6896	mdowd3909@yahoo.com
+	Ruth Draper	Main Manor	507	(541) 857-6171 (p)
+(541) 261-5207 (m)	ruthdraper507@yahoo.com
+	Celia Driscoll	Quail Point Circle	2303	(541) 857-6364 (p)
+(650) 888-0598 (m)	cealia123@yahoo.com
+	David Drury	Meadow View Drive	1630	(541) 857-6066 (p)
+(808) 313-9097 (m)	daviddrury1@gmail.com
+	Anne Duncan	Manor Terrace	4301	(541) 857-6391 (p)
+(541) 779-7971 (m)	at.duncan45@gmail.com
+	Robert Duncan	Manor Terrace	4301	(541) 857-6391 (p)
+(541) 944-6363 (m)	robduncan63@gmail.com
+	Pratibha Eastwood	Quail Point Terrace	2205	(541) 857-6510	epratibha@yahoo.com
+	Christine Edner	Main Manor	527	(541) 857-6866 (p)
+(541) 840-0972 (m)	chrisedner10@gmail.com
+	Lindsay Edwards	One Skyline Drive-Plaza	3308	(541) 857-6235 (p)
+(530) 227-2640 (m)	keandle@gmail.com
+	Ruth Edwards	One Skyline Drive-Plaza	3308	(541) 857-6235 (p)
+(541) 840-3716 (m)	ruthstiehl@gmail.com
+	Mark Edy	Wildflower Circle	1912	(541) 857-6574	archwoods@aol.com
+	Art Ekerson	Lake Village Drive	1706	(541) 857-6507 (p)
+(541) 778-0264 (m)	bahamalama3@gmail.com
+	Jean Ekerson	Lake Village Drive	1706	(541) 857-6507 (p)
+(541) 772-5322 (m)	winterlude3@gmail.com
+	Jim Ellis	Quail Point Circle	2107	(541) 857-6978 (p)
+(541) 727-1845 (m)	jcellis@umich.edu
+	Joyce Ellis	Quail Point Circle	2107	(541) 857-6978 (p)
+(541) 727-1846 (m)	revjoy@umich.edu
+	Claire Engle	Memory Support Center	220	(541) 857-6828	
+	Gillian Engledow	Main Manor	511	(541) 857-6009	jill@mauiislandpress.com
+	Charles Ervin	Wildflower Circle	1901	(541) 857-6430 (p)
+(770) 595-6465 (m)	charlesinmontana@gmail.com
+	Ernie Ettlich	Care Suites	4131	(541) 857-6963 (p)
+(541) 292-6672 (m)	eettlich3407@gmail.com
+	David Eufusia	Malama Way	75	(541) 857-6395 (p)
+(650) 483-2335 (m)	daveeufusia@hotmail.com
+	Linda Eufusia	Malama Way	1502	(541) 857-6395	lindaeufusia@gmail.com
+	Peggy Evans	Quail Point Circle	2110	(541) 857-6152 (p)
+(541) 821-0977 (m)	mevans@mind.net
+	Rich Faris	Rogue Valley Manor Drive	2402	(541) 857-6930 (p)
+(650) 906-0215 (m)	judi-rich@sbcglobal.net
+	Judi Faris	Rogue Valley Manor Drive	2402	(541) 857-6930 (p)
+(808) 782-1677 (m)	judi-rich@sbcglobal.net
+	Joyce Farr	Rogue Valley Manor Drive	2401	(541) 857-6588 (p)
+(415) 710-8458 (m)	joyfrfar@aol.com
+	Patty Farrell	Main Manor	606	(541) 857-6584 (p)
+(541) 778-0186 (m)	pffrisco@earthlink.net
+	Barry Fasbender	Memory Support Center	302	(541) 857-6421 (p)
+(650) 218-0863 (m)	barryfasbender@comcast.net
+	Linda Fedigan	Skyline Drive	1126	(541) 857-6374 (p)
+(541) 801-8896 (m)	fedigan@ucalgary.ca
+	Ulla Feeley	Pear Tree Lane	1324	(541) 857-6518 (p)
+(541) 500-9693 (m)	uolswd@gmail.com
+	Charlene Ferderber	Shannon Drive	1101SD	(541) 857-6125 (p)
+(925) 596-4331 (m)	hawaiix@comcast.net
+	Larry Ferderber	Shannon Drive	1101SD	(541) 857-6125 (p)
+(925) 918-0245 (m)	larryferderber@comcast.net
+	Ginny Ferguson	One Skyline Drive-Plaza	3205	(541) 857-6178	fergusonginny1@gmail.com
+	Barb Field	Lake Village Drive	1701	(541) 857-6884 (p)
+(541) 778-4875 (m)	barbfield65@gmail.com
+	Butch Finley	Pear Tree Lane	1329	(541) 857-6161	bf6695@gmail.com
+	Karen Finley	Pear Tree Lane	1329	(541) 857-6161 (p)
+(808) 277-8780 (m)	finleys3k@gmail.com
+	Sylvia Firnhaber-Bonner	Quail Point Court	2125	(541) 857-6258 (p)
+(480) 837-3831 (m)	sylbon@cox.net
+	Dolores Fisette	Pear Tree Lane	1314	(541) 857-6084 (p)
+(541) 778-1024 (m)	dfisette@itsolutionz.com
+	Cathy Fitzpatrick	Skyline Drive	1115	(541) 857-6120 (p)
+(209) 297-1273 (m)	fitzdeen@hotmail.com
+	Deb Flaherty	Meadow View Drive	1612	(541) 857-6041 (p)
+(650) 759-4128 (m)	Flaherty.dwr@gmail.com
+	Len Flaherty	Meadow View Drive	1612	(541) 857-6041 (p)
+(650) 759-4129 (m)	leonard1068@gmail.com
+	Nora Fong	Quail Point Terrace	2214	(541) 857-6862	
+	Walter Fong	Quail Point Terrace	2214	(541) 857-6862	fongwalk@gmail.com
+	Sarah Forbes	1083 Shannon Dr-House #1	1083SD	(541) 857-6238	sarahforbes72@gmail.com
+	Mike Forster	Village Center Drive	1509	(541) 857-6165 (p)
+(650) 793-6878 (m)	mkforster@comcast.net
+	Sally Forster	Village Center Drive	1509	(540) 857-6165 (p)
+(650) 704-5615 (m)	sally.forster@comcast.net
+	J Doug Foster	1083 Shannon Dr-House #1	1083SD	(541) 857-6238 (p)
+(541) 326-9374 (m)	dougmcfossil@gmail.com
+	Joanie Fotheringham	Main Manor	902	(541) 857-6059	joanjack2@aol.com
+	Vernes Fowler	Memory Support Center	303	(541) 857-6727	
+	Phyllis Fox	Skyline Drive	1109	(541) 857-6357 (p)
+(808) 987-5530 (m)	puuhaloa@yahoo.com
+	David Franco	One Skyline Drive-Plaza	3211	(541) 857-6207 (p)
+(808) 478-4540 (m)	davidskip074@gmail.com
+	Tam Franco	One Skyline Drive-Plaza	3211	(541) 857-6207 (p)
+(808) 754-7130 (m)	francoxzy@yahoo.com
+	Nancy Freda	Main Manor	31	(541) 857-6318 (p)
+(509) 833-2202 (m)	mcfreda48@gmail.com
+	Michael Fried	Skyline Drive	1124	(541) 857-6249 (p)
+(303) 524-0326 (m)	michaelfried1345@gmail.com
+	Diane Friedlander	Village Center Drive	1414	(541) 857-6423 (p)
+(408) 504-9671 (m)	dfreedL89@gmail.com
+	Milton Friedman	Meadow View Drive	1606	(541) 857-6286 (p)
+(510) 917-4323 (m)	1miltfriedman@gmail.com
+	Bill Frye	Pear Tree Lane	1306	(541) 857-6714 (p)
+(760) 403-1319 (m)	wtfrye@aol.com
+	Marg Funch	Main Manor	723	(541) 857-6173	mpfunch@yahoo.com
+	Peter Funch	Memory Support Center	210	(541) 857-6173	
+	Carole Funk	Terrace Residential Living	4212	(541) 857-6723 (p)
+(650) 207-3850 (m)	buddy4@prodigy.net
+	Alysse Furukawa	Pear Tree Lane	1304	(541) 857-6887	alysse47@gmail.com
+	Suzana Gal	Meadow View Drive	1625	(541) 857-6919	galsuzana@gmail.com
+	Alan Galka	One Skyline Drive-Plaza	3306	(541) 857-6812 (p)
+(541) 840-8946 (m)	alangalka@gmail.com
+	Maureen Gallagher	Main Manor	826	541-857-6341	maureengviola@gmail.com
+	Anne Gardner	Rogue Valley Manor Drive	2409	(541) 857-6290 (p)
+(206) 406-5809 (m)	fly_cat@msn.com
+	Peter Gardner	Rogue Valley Manor Drive	2409	(541) 857-6290 (p)
+(206) 406-5809 (m)	fly_cat@msn.com
+	Cecile Garrett	Memory Support Center	207	(541) 857-6004 (p)
+(541) 061-8101 (m)	
+	David Gent	Pear Tree Lane	1310	(541) 857-6867 (p)
+(541) 777-0435 (m)	dgent@jeffnet.org
+	Nancy Gerhard	Main Manor	1001	(541) 857-6439 (p)
+(714) 925-3757 (m)	ngerhard21@gmail.com
+	Dave Ghiselli	Manor Terrace	4414	(541) 857-6367 (p)
+(408) 655-8182 (m)	drghiselli@gmail.com
+	Del Gilbert	Main Manor	929	(541) 857-6737 (p)
+(541) 973-2243 (m)	jmitchellinoregon@gmail.com
+	Francis Gilbert	Horizon Lane	1205	(541) 857-6143 (p)
+(541) 499-4283 (m)	Fsgilbert@msn.com
+	Karen Gilbert	Horizon Lane	1205	(541) 857-6143 (p)
+(541) 301-3751 (m)	Karenkays5836@gmail.com
+	Mary Gillespie	Quail Point Court	2127	(541) 857-6083 (p)
+(541) 301-6012 (m)	mwgillespiervm@gmail.com
+	Carole Glade	Meadow View Drive	1616	(541) 857-6760 (p)
+(201) 280-0766 (m)	caroleglade@gmail.com
+	Joe Glade	Meadow View Drive	1616	(541) 857-6760 (p)
+(973) 714-6388 (m)	joe_glade@msn.com
+	Tom Glatte	Terrace Residential Living	4201	(541) 857-6429 (p)
+(541) 941-3352 (m)	tomg53@charter.net
+	Doug Godwin	Manor Terrace	4307	(541) 857-6779 (p)
+(510) 517-2324 (m)	douggodwin1508@gmail.com
+	Kay Godwin	Manor Terrace	4307	(541) 857-6779 (p)
+(510) 517-2324 (m)	kaygodwin1508@gmail.com
+	Frieda Golding	Skyline Drive	1140	(541) 857-6103	
+	Robert Golding	Skyline Drive	1140	(541) 857-6103	bnfriedagolding@gmail.com
+	Cheryl Goldman	One Skyline Drive-Plaza	3511	(541) 857-6859 (p)
+(541) 631-8602 (m)	emshairball@gmail.com
+	Edward Goldman	One Skyline Drive-Plaza	3511	(541) 857-6859 (p)
+(541) 625-8569 (m)	ebg8569@gmail.com
+	Jean Goodman	Main Manor	916	(541) 857-6042 (p)
+(541) 499-8384 (m)	jgoodman@pacific.net
+	Vicki Gorrell	Lake Village Drive	1718	(541) 857-6632 (p)
+(970) 373-8950 (m)	vgorrell@gmail.com
+	Jackie Graber	Care Suites	4139	(541) 857-6783	jackiegrvm@gmail.com
+	Jean Grassam	Village Center Drive	1432	(541) 857-6863	pgrassam@aol.com
+	Barbara Green	One Skyline Drive-Plaza	212	(541) 857-6998 (p)
+(650) 388-0309 (m)	rnb.green@comcast.net
+	Ronald Green	One Skyline Drive-Plaza	3310	(541) 857-6998 (p)
+(650) 388-0309 (m)	rnb.green@comcast.net
+	Dave Greenwood	Village Center Drive	1422	(541) 857-6615 (p)
+(406) 333-4777 (m)	dave45807@yahoo.com
+	Pat Greenwood	Village Center Drive	1422	(541) 857-6615 (p)
+(406) 223-9051 (m)	patricia59047@yahoo.com
+	Shirley Greenwood	Manor Terrace	4309	(541) 857-6302 (p)
+(831) 239-6194 (m)	shirleylng@yahoo.com
+	Gery Grey	Quail Point Circle	907	(541) 857-6276	drgerygrey@gmail.com
+	Perry Grey	Quail Point Circle	907	(541) 857-6276 (p)
+(831) 402-4292 (m)	drpgrey@icloud.com
+	Cynthia Grossman	Skyline Drive	1124	(541) 857-6249 (p)
+(720) 289-5194 (m)	cyng06@yahoo.com
+	Jacky Guthrie	Village Center Drive	1420	(541) 857-6256 (p)
+(541) 941-4253 (m)	jguthrie@ccountry.net
+	Marvin Guthrie	Memory Support Center	306	(541) 857-6256	
+	Chuck Gutweniger	Main Manor	726	(541) 857-6486	drg1927@gmail.com
+	David Guzzetta	Horizon Lane	1214	(541) 857-6738	djguzzetta@yahoo.com
+	Carolyn Haas	Skyline Drive	1139	(541) 857-6218 (p)
+(818) 309-5870 (m)	acwhaas@gmail.com
+	Donna Hadley	Main Manor	518	(541) 857-6134	dlhadley33@icloud.com
+	Doris Hadley	Care Suites	4119	(541) 857-6292	bugsr0@aol.com
+	Mary Ann Lyman Hager	Lake Village Drive	1710	(541) 857-6352 (p)
+(619) 578-9096 (m)	mlymanha@sdsu.edu
+	Wayne Hager	Lake Village Drive	1710	(541) 857-6352 (p)
+(858) 442-3253 (m)	wrhager@psu.edu
+	Jane Hall	Pear Tree Lane	1312	(541) 857-6557 (p)
+(541) 261-5420 (m)	randjhallrvm@gmail.com
+	John Hallett	Lake Village Drive	1713	(541) 857-6117 (p)
+(541) 821-4101 (m)	
+	Gary Hanagami	Village Center Drive	1412	(541) 857-6304 (p)
+(808) 343-2839 (m)	gary.hanagami@gmail.com
+	Meryl Hanagami	Village Center Drive	1412	(541) 857-6304 (p)
+(808) 392-6337 (m)	merylhanagami@gmail.com
+	Gayla Hannah	Care Suites	4129	(541) 857-6974 (p)
+(951) 315-6881 (m)	gayla.hannah@gmail.com
+	Helen Hanson	Lake Village Drive	1712	(541) 857-6624 (p)
+(925) 285-8385 (m)	helenhanson611@gmail.com
+	Roxann Happ	Manor Terrace	4410	(541) 857-6465 (p)
+(650) 722-2268 (m)	roxannhapp@gmail.com
+	Margaret Hardman	Residential Living	154	(541) 857-6520 (p)
+(541) 778-0344 (m)	MVHardman@outlook.com
+	Jamie Harris	Meadow View Drive	1603	(541) 857-6555 (p)
+(541) 840-3206 (m)	4pleasantway@gmail.com
+	Jane Harris	Village Center Drive	1416	(541) 857-6327 (p)
+(425) 985-7445 (m)	
+	Steve Harris	Village Center Drive	1416	(541) 857-6327 (p)
+(425) 985-7016 (m)	
+	Betty Harrison	One Skyline Drive-Plaza	3204	(541) 857-6317 (p)
+(541) 941-7485 (m)	blharrison341@gmail.com
+	Darlene Hart	Memory Support Center	305	(541) 857-6169	
+	Cathy Hartman	Wildflower Drive	1813	(541) 857-6279 (p)
+(435) 512-1587 (m)	422eagle@gmail.com
+	Michael Hartman	Wildflower Drive	1813	(541) 857-6279 (p)
+(435) 512-1586 (m)	michael.hart43@gmail.com
+	Jacqueline Harvey	Care Suites	4135	(541) 857-6936	
+	Buck Hasselbrink	One Skyline Drive-Plaza	3413	(541) 857-6559 (p)
+(541) 827-9373 (m)	bucksplace4@gmail.com
+	Susie Hasselbrink	One Skyline Drive-Plaza	3413	(541) 857-6559 (p)
+(541) 827-9373 (m)	Susiehasselbrink@gmail.com
+	Ethel Hassen	Quail Point Court	2128	(541) 857-6467 (p)
+(541) 601-4408 (m)	ejhassen2@gmail.com
+	Roberta Hasui	Care Suites	4101	(541) 857-6964 (p)
+(541) 210-0571 (m)	
+	Steve Hatchett	Mira Mar Ave	1177MM	(541) 857-6070	sphatchett2@gmail.com
+	Mary Hayes	Quail Point Court	2126	(541) 857-6477 (p)
+(541) 301-3995 (m)	
+	Merrill Hayes	Quail Point Court	2126	(541) 857-6477 (p)
+(541) 488-2598 (m)	merrillhayes45@gmail.com
+	Peggy Hayward	Wildflower Circle	1911	(541) 857-6657 (p)
+(559) 341-3763 (m)	sandphayward@yahoo.com
+	Stan Hayward	Wildflower Circle	1911	(541) 857-6657 (p)
+(559) 341-3763 (m)	sandphayward@yahoo.com
+	Katie Heap	Main Manor	1003	(541) 857-6508 (p)
+(916) 806-8080 (m)	bandonkate@gmail.com
+	Fred Hearth	Main Manor	618	(541) 857-6127 (p)
+(951) 288-8659 (m)	medvilla2024@outlook.com
+	Meridel Hedges	One Skyline Drive-Plaza	3604	(541) 857-6605 (p)
+(541) 816-9696 (m)	rkypines2@gmail.com
+	Kathy Hegel	Manor Terrace	4310	(541) 857-6741 (p)
+(541) 292-9550 (m)	
+	Uli Hegel	Manor Terrace	4310	(541) 857-6741	hegeluli@gmail.com
+	Jack Heide	Main Manor	704	(541) 857-6441	haroldjheide@gmail.com
+	Joyce Heintz	Main Manor	921	(541) 857-6104	joycielaine@gmail.com
+	Dick Heintz	Main Manor	921	(541) 857-6104	ktg921rvm@gmail.com
+	Michael Held	Main Manor	1009	(541) 857-6981	
+	Pearl Held	Main Manor	1009	(541) 857-6981	
+	Don Hendrickson	Quail Point Terrace	2212	(541) 857-6342 (p)
+(541) 261-7728 (m)	donaldhendrickson4@gmail.com
+	Robin Hendrickson	Quail Point Terrace	2212	(541) 857-6342 (p)
+(951) 533-7574 (m)	10000robinh@gmail.com
+	Laura Hennings	Skyline Drive	1104	(541) 857-6121 (p)
+(541) 880-6929 (m)	lhhennings1@gmail.com
+	Hannelore Herbig	One Skyline Drive-Plaza	3610	(541) 857-6257 (p)
+(808) 728-6474 (m)	hherbig2@gmail.com
+	George Hettich	Quail Point Cirlce	2305	(541) 857-6428 (p)
+(360) 840-7767 (m)	glhettich@frontier.com
+	Laura Hettich	Quail Point Cirlce	2305	(541) 857-6428 (p)
+(360) 840-7637 (m)	laurahettich123@gmail.com
+	Jane Heverly	Quail Point Circle	2104	(541) 857-6201 (p)
+(541) 727-8237 (m)	jane@heverly.com
+	Mike Heverly	Quail Point Circle	2104	(541) 857-6201 (p)
+(541) 324-1234 (m)	heverlymike@gmail.com
+	Betty Heycke	One Skyline Drive-Plaza	3213	(541) 857-6942 (p)
+(541) 646-5553 (m)	bettyheycke@yahoo.com
+	Dieter Heycke	One Skyline Drive-Plaza	3213	(541) 857-6942	heycke@yahoo.com
+	Rob Hight	Main Manor	1018	(541) 857-6542 (p)
+(541) 622-4119 (m)	rnthight@gmail.com
+	Teddie Hight	Main Manor	1018	(541) 857-6542 (p)
+(541) 324-4432 (m)	tnrhight@gmail.com
+	Karen Hilyard	Quail Point Circle	2311	(541) 857-6077	khilyard@live.com
+	Pam Himstreet	Main Manor	611	541-857-6356 (p)
+541-410-1233 (m)	pamhim75@gmail.com
+	Tom Himstreet	Main Manor	611	5418576356	tomhimstreet@gmail.com
+	Janet Hines	Terrace	4314	(541) 857-6659	jihines@me.com
+	Cari Hinesly	Pear Tree Lane	1330	(541) 857-6878 (p)
+(541) 890-2113 (m)	hineslyca@gmail.com
+	Julia Hissam	One Skyline Drive-Plaza	3401	(541) 857-6564	
+	Mark Hissam	One Skyline Drive-Plaza	3401	(541) 857-6564 (p)
+(541) 778-4475 (m)	mhissam44752@icloud.com
+	Sheila Hobbs	Meadow View Drive	1617	(541) 857-6047 (p)
+(541) 324-0987 (m)	shehobbs517@gmail.com
+	Chris Hoeber	Lake Village Drive	1723	(541) 857-6593 (p)
+(650) 799-6572 (m)	chris@cfhengineering.com
+	Mary Hoeber	Lake Village Drive	1723	(541) 857-6593 (p)
+(415) 609-3280 (m)	maryhoeber@gmail.com
+	Lani Holgate	Quail Point Circle	2112	(541) 857-6404	lanilh@yahoo.com
+	George Holland	Main Manor	631	(541) 857-6012 (p)
+(847) 571-3589 (m)	georgeholland2017@gmail.com
+	Maggie Honegger	Quail Point Circle	2105	(541) 857-6893 (p)
+(541) 857-6893 (m)	jeandun36@yahoo.com
+	Dawne Howard	One Skyline Drive-Plaza	3506	(541) 857-6500 (p)
+(541) 912-5051 (m)	dthowar@msn.com
+	Pam Howard	Malama Way	1501	(541) 857-6785 (p)
+(925) 285-5406 (m)	plhtfc@gmail.com
+	Sharee Howell	Horizon Lane	1216	(541) 857-6544	howellsharee@yahoo.com
+	Barbara Howley	Health Center	25	(541) 857-6211 (p)
+(408) 691-6340 (m)	innago60@yahoo.com
+	Mike Howley	Health Center	25	(541) 857-6211 (p)
+(408) 691-6344 (m)	mikehowley1941@yahoo.com
+	Cheerie Howse	Skyline Drive	1121	(541) 857-6390 (p)
+(650) 743-3885 (m)	cheeriehowse@mac.com
+	Juliet Hsiung	Main Manor	624	(541) 857-6735	jahsiung@gmail.com
+	Tacy Huffman	Main Manor	915	(541) 857-6536	taghuff@sbcglobal.net
+	Carolyn Hunsaker	Horizon Lane	1224	(541) 857-6200 (p)
+(559) 392-2421 (m)	cth2014or@gmail.com
+	Donald Hunsaker	Horizon Lane	1224	(541) 857-6200 (p)
+(559) 281-3917 (m)	bend4don@gmail.com
+	Alice Hunt	Meadow View Drive	1624	(541) 857-6448 (p)
+(541) 414-7225 (m)	alicehunt22@gmail.com
+	Howard Hunt	Meadow View Drive	1624	(541) 857-6448 (p)
+(541) 414-7224 (m)	howardhuntart@gmail.com
+	Judy Hunter	Quail Point Circle	2117	(541) 857-6734 (p)
+(541) 500-7081 (m)	pljlhunter@aol.com
+	Roger Hutchings	Village Center Drive	1403	(541) 857-6277 (p)
+(541) 944-3044 (m)	rogerhutchings3@gmail.com
+	Becky Hyde	Care Suites	4137	(541) 857-6693	rebrogue1@gmail.com
+	Louise Hyneman	Main Manor	4103	(541) 857-6865	
+	Bob Ichimura	Main Manor	1030	(541) 857-6553 (p)
+(808) 391-4413 (m)	bobichimura@gmail.com
+	Margaret Ingman	Memory Support Center	301	(541) 857-6260 (p)
+(541) 301-6340 (m)	mjingman36@gmail.com
+	Anne Irons	Main Manor	1008	(541) 857-6589	anneirons@yahoo.com
+	Merl Isaak	Lake Village Drive	1716	(541) 857-6847	mvfisaak@outlook.com
+	Faye Isaak	Lake Village Drive	1716	(541) 857-6847	mvfisaak@outlook.com
+	Alan Jackson	Meadow View Dr.	1601	(541) 857-6135 (p)
+(541) 301-4819 (m)	fromaj@gmail.com
+	Carol Jackson	Meadow View Dr.	1601	(541) 857-6135 (p)
+(541) 301-6967 (m)	fromaj@gmail.com
+	Bill Jacobs	Lake Village Drive	1701	(541) 857-6993 (p)
+(541) 944-5215 (m)	bill.jacobsrvm@gmail.com
+	Janet Jacobson	Wildflower Drive	1802	(541) 857-6076 (p)
+(320) 491-8240 (m)	janetjake2@yahoo.com
+	Gary Jensen	Manor Terrace	4311	(541) 857-6569 (p)
+(805) 709-2173 (m)	jensen_gary@hotmail.com
+	Kathleen Jensen	Manor Terrace	4311	(541) 857-6569	katemjensen@hotmail.com
+	Jackie Johnson	Quail Point Terrace	2217	(541) 857-6828 (p)
+(808) 342-6300 (m)	jacquellinejohnson@mac.com
+	Joan Johnson	Horizon Lane	1201	(541) 857-6150 (p)
+(650) 208-5572 (m)	jonisj22@gmail.com
+	Steve Joice	Main Manor	427	(541) 857-6474 (p)
+(541) 227-4667 (m)	stephenr4@msn.com
+	Don Jones	Residential Livining	193	(541) 857-6463 (p)
+(808) 284-2432 (m)	bonesjones1927@gmail.com
+	Jackie Jones	Residential Livining	193	(541) 857-6463 (p)
+(808) 284-2435 (m)	jackieinc3@gmail.com
+	John Jones	Lake Village Drive	1703	(541) 857-6230 (p)
+(510) 599-0947 (m)	johnjones10@gmail.com
+	Martha Jones	Lake Village Drive	1703	(541) 857-6230 (p)
+(510) 599-0843 (m)	mjones-10@outlook.com
+	Laurie Jonqueres	Meadow View Drive	1626	(541) 857-6106 (p)
+(310) 378-9145 (m)	primesautier7@gmail.com
+	Michel Jonqueres	Meadow View Drive	1626	(541) 857-6106 (p)
+(310) 802-9465 (m)	michou0321@gmail.com
+	Neil Jordan	Rogue Valley Manor Drive	2406	(541) 857-6418 (p)
+(714) 270-8422 (m)	neiljordan@cox.net
+	Nina Jordan	Rogue Valley Manor Drive	2406	(541) 857-6418 (p)
+(714) 273-5241 (m)	ninajordan98@gmail.com
+	John Jory	Rogue Valley Manor Drive	2415	(541) 857-6585	jory2718@gmail.com
+	Judie Jory	Rogue Valley Manor Drive	2415	(541) 857-6585 (p)
+(541) 488-8881 (m)	judie.jory@gmail.com
+	David Jurling	Care Suites	4133	(541) 857-6071	
+	Asifa Kanji	Meadow View Drive	1630	(541) 857-6066 (p)
+(808) 494-4496 (m)	asifakanji@gmail.com
+	Grady Kase	Skyline Drive	1137	(541) 857-6464 (p)
+(650) 380-8410 (m)	amelie.kase@gmail.com
+	Ken Kase	Skyline Drive	1137	(541) 857-6464	kr.kase@stanfordalumni.org
+	Lesley Kaufman	Quail Point Circle	2310	(541) 857-6378 (p)
+(520) 247-0408 (m)	lesleykaufman5@gmail.com
+	Ron Kaufman	Quail Point Circle	2310	(541) 857-6378 (p)
+(520) 818-4152 (m)	ronk4152@gmail.com
+	Carole Kehrig	One Skyline Drive-Plaza	3304	(541) 857-6952 (p)
+(541) 761-0578 (m)	kehrigcp@gmail.com
+	Diane Keller	One Skyline Drive-Plaza	3607	(541) 857-6179 (p)
+(408) 718-0863 (m)	dkkeller@sbcglobal.net
+	Michael Keller	One Skyline Drive-Plaza	3607	(541) 857-6179 (p)
+(408) 824-4308 (m)	mkeller1460@gmail.com
+	Kathy Kelley	Village Center Drive	1433	(541) 857-6582 (p)
+(808) 265-2435 (m)	kmk@merrill-hawaii.com
+	Ken Kelley	Wildflower Drive	1811	(541) 857-6819 (p)
+(760) 382-4926 (m)	kckelleyrvm@gmail.com
+	Pam Kelley	Lake Village Drive	1720	(541) 857-6496	kelsea@mcn.org
+	Connie Kent	Main Manor	913	(541) 857-6301 (p)
+(808) 283-4200 (m)	kent.connie@gmail.com
+	Karen Kent	One Skyline Drive-Plaza	3411	(541) 857-6380 (p)
+(541) 261-1780 (m)	kskent630@gmail.com
+	Molly Killefer	Shannon Drive	1203-1	(541) 857-6780 (p)
+(831) 277-7787 (m)	mollykillefer@gmail.com
+	Peter Killefer	Shannon Drive	1203-1	(541) 760-6066 (m)	peterkillefer@gmail.com
+	Philip Kirby	Main Manor	833	(541) 857-6344 (p)
+(707) 599-1235 (m)	tawneyphil@att.net
+	Keeley Kirkendall	Meadow View Drive	1627	(541) 857-6128 (p)
+(541) 646-8797 (m)	keeley256@gmail.com
+	Doug Kirkpatrick	Skyline Drive	1136	(541) 857-6022	737dbk@gmail.com
+	Terrie Kirkpatrick	Skyline Drive	1136	(541) 857-6022	737dbk@gmail.com
+	Susan Knapp	Residential Livining	192	(541) 857-6466 (p)
+(541) 414-8547 (m)	szknapp1977@gmail.com
+	Inge Knebel	One Skyline Drive-Plaza	3508	(541) 857-6860 (p)
+(503) 329-6609 (m)	tennis.40love@yahoo.com
+	Werner Knebel	One Skyline Drive-Plaza	3508	(541) 857-6860 (p)
+(503) 329-6609 (m)	iwknebel@comcast.net
+	Barbara Knowdell	Horizon Lane	1207	(541) 857-6604 (p)
+(408) 568-3475 (m)	bknowdell@mac.com
+	Dan Kochi	One Skyline Drive-Plaza	3302	(541) 857-6102	dtkochi33@gmail.com
+	Esther Kochi	One Skyline Drive-Plaza	3302	(541) 857-6102 (p)
+(808) 381-5911 (m)	ekochi477@gmail.com
+	Jarmila Kozak	Residential Livining	167	(541) 857-6673	kozaci@hotmail.com
+	Milan Kozak	Memory Support Center	201	(541) 857-6673 (p)
+(831) 240-5201 (m)	kozaci@hotmail.com
+	Steve Krasner	Main Manor	524	(541) 857-6768 (p)
+(650) 521-2659 (m)	skrasner@stanford.edu
+	Connie Kraus	Skyline Drive	1118	(541) 857-6665 (p)
+(808) 398-9554 (m)	conniekraus18@gmail.com
+	Joy Krause	Quail Point Court	2124	(541) 857-6701 (p)
+(650) 678-4506 (m)	diverswe@att.net
+	Rich Krause	Quail Point Court	2124	(541) 857-6701 (p)
+(650) 678-4498 (m)	rkrause146@gmail.com
+	Saul Krimsly	Pear Tree Lane	1314	(541) 857-6084 (p)
+(707) 743-2230 (m)	saul@itsolutionz.com
+	Earl Kroner	Terrace Residential Living	4213	(541) 857-6419 (p)
+(541) 227-3901 (m)	EarlatRVM@gmail.com
+	Nancy Krovitz	Main Manor	513	(541) 857-6806 (p)
+(541) 326-8941 (m)	nancykae2@gmail.com
+	Kathleen Kudo	One Skyline Drive-Plaza	3406	(541) 857-6412 (p)
+(541) 941-0301 (m)	kathkudo@icloud.com
+	Freddie Lamb	Main Manor	414	(541) 857-6398 (p)
+(559) 240-3007 (m)	
+	Glen Lamb	Main Manor	414	(541) 857-6398 (p)
+(559) 240-3007 (m)	lambgln@yahoo.com
+	Terri Lambert	1109 Shannon Dr-House #5		(541) 857-6029	tlin1040@gmail.com
+	Phyllis Lasche	Mira Mar Ave	1177MM	(541) 857-6070 (p)
+(925) 980-3028 (m)	palasche@gmail.com
+	Rachel Lathrop	Main Manor	1012	(541) 857-6025	rlathroprvm@gmail.com
+	Holly Lawson	One Skyline Drive-Plaza	3512	(541) 857-6324 (p)
+(208) 720-6309 (m)	hflawson22@gmail.com
+	Ingrid LeBlanc	Skyline Drive	1130	(541) 857-6639 (p)
+(650) 207-3333 (m)	ingridleblanc@yahoo.com
+	McKaye Lent	Main Manor	502	(541) 857-6573 (p)
+(707) 496-2602 (m)	silvercoast@gmail.com
+	Nancy Leovy	One Skyline Drive-Plaza	60	(541) 857-6489 (p)
+(541) 778-4175 (m)	nancyleovy@gmail.com
+	Jeri Leri	One Skyline Drive-Plaza	3415	(541) 857-6242 (p)
+(650) 207-5614 (m)	msjbleri@gmail.com
+	Mike LeTourneau	Main Manor	325	(541) 857-6483 (p)
+(541) 622-5733 (m)	mikelet47@gmail.com
+	Leilani Lewis	Main Manor	716	(541) 857-6013 (p)
+(808) 938-6013 (m)	naniwaimea@mac.com
+	Rosvita Linde	Skyline Drive	1107	(541) 857-6182 (p)
+(541) 840-3845 (m)	roswithalind@gmail.com
+	Barbara Lindsay	Main Manor	601	(541) 857-6948 (p)
+(707) 834-8262 (m)	lindsaybarbara7@gmail.com
+	Bob Lindstrom	Main Manor	616	(541) 857-6216	lindstrombob294@gmail.com
+	Linda Lingelser	One Skyline Drive-Plaza	3614	(541) 857-6661	llingelser@aol.com
+	Jean Linington	Manor Terrace	4401	(541) 857-6905 (p)
+(541) 621-0183 (m)	jeanlinington@gmail.com
+	Peter Linington	Manor Terrace	4401	(541) 857-6905	pslinington@gmail.com
+	Wesley Lippert	Main Manor	604	(541) 857-6669	wlippert@outlook.com
+	Eleanor Lippman	Quail Point Circle	2313	(541) 857-6521 (p)
+(909) 228-7424 (m)	elippman@aol.com
+	Claudia Little	Skyline Drive	1134	(541) 857-6781 (p)
+(619) 992-8082 (m)	claudia@ronandclaudia.com
+	Ron Little	Skyline Drive	1134	(541) 857-6781 (p)
+(541) 613-8823 (m)	ron@ronandclaudia.com
+	Dale Lohman	Wildflower Circle	1915	(541) 857-6183 (p)
+(408) 206-6005 (m)	dale.lohman@gmail.com
+	Reina Lopez	Main Manor	1014	(541) 857-6498 (p)
+(650) 208-1656 (m)	lopez514@aol.com
+	Mickey Lowe	Care Suites	4138	(541) 857-6630	
+	Joanna Lucchesi	Village Center Drive	1508	(541) 857-6475 (p)
+(818) 416-9267 (m)	jmlukz251@gmail.com
+	Ruth Luce	Village Center Drive	1428	(541) 857-6204	steveruthluce@aol.com
+	Steve Luce	Village Center Drive	1428	(541) 857-6204	steveruthluce@aol.com
+	Skip Ludloff	Meadow View Drive	1631	(541) 857-6227 (p)
+(808) 780-7547 (m)	ludloff@hotmail.com
+	Arnold Lum	Main Manor	321	(541) 857-6872	
+	June Harrigan Lum	Main Manor	321	(541) 857-6872 (p)
+(541) 397-9857 (m)	junehiking@gmail.com
+	Stan Luther	Main Manor	1026	(541) 857-6687 (p)
+(541) 840-2898 (m)	Stanluther7@gmail.com
+	Linda Lynn	Pear Tree Lane	1319	(541) 857-6328 (p)
+(916) 591-6696 (m)	raelynn01@gmail.com
+	Yvonne Lynn	Pear Tree Lane	191	(541) 857-6677	ylynn20@gmail.com
+	Claudia Macmillan	One Skyline Drive-Plaza	3312	(541) 857-6566 (p)
+(650) 863-6136 (m)	claudiamacmillan@yahoo.com
+	Jim Macmillan	One Skyline Drive-Plaza	3312	(541) 857-6566 (p)
+(650) 703-7626 (m)	macmillj@yahoo.com
+	Cate Macmullin	Main Manor	806	(541) 857-6181	macopm1807@gmail.com
+	Matilde Macready	Main Manor	304	(541) 857-6473	macreadyt@yahoo.com
+	Craig Madsen	One Skyline Drive-Plaza	3203	(541) 857-6228 (p)
+(805) 698-2245 (m)	camadsen63@gmail.com
+	Sherry Madsen	One Skyline Drive-Plaza	3203	(541) 857-6228 (p)
+(805) 698-2246 (m)	scmadsen64@gmail.com
+	Cynde Magidson	Lake Village Drive	1709	541-857-6504 (p)
+541-788-4396 (m)	cynde.magidson@gmail.com
+	Steve Magidson	Lake Village Drive	1709	541-857-6504 (p)
+541-788-4395 (m)	steve.magidson@gmail.com
+	Julie Mahoney	Horizon Lane	1221	(541) 857-6362 (p)
+(541) 601-7084 (m)	jmahoney1221@gmail.com
+	Dick Mahoney	Horizon Lane	1221	(541) 857-6362 (p)
+(541) 601-6583 (m)	rjmahoney56@gmail.com
+	Alex Maksymowicz	Quail Point Circle	2101	(541) 857-6233 (p)
+(541) 531-8101 (m)	maksbox1@gmail.com
+	Lillian Maksymowicz	Quail Point Circle	2101	(541) 857-6233	lillimax32@gmail.com
+	Graciela Marin	Wildflower Circle	1901	(541) 857-6430 (p)
+(406) 548-1769 (m)	idylhouse@gmail.com
+	Cathy Martin	Wildflower Circle	1906	(541) 857-6148 (p)
+(949) 439-9721 (m)	martin1610cw@yahoo.com
+	Wayne Martin	Wildflower Circle	1906	(541) 857-6148 (p)
+(949) 525-7940 (m)	wmartinkauai@yahoo.com
+	Barbara Maxfield	Quail Point Circle	2103	(541) 857-6100 (p)
+(808) 227-5254 (m)	maxfieldbarbara@gmail.com
+	Keith Maxfield	Quail Point Circle	2103	(541) 857-6100 (p)
+(808) 227-0529 (m)	maxfieldkeith@gmail.com
+	Nancy Maxwell	Skyline Drive	1103	(541) 857-6548 (p)
+(209) 352-8862 (m)	packymax@gmail.com
+	Ron Mayerle	Manor Terrace	4408	(541) 857-6977 (p)
+(541) 499-5005 (m)	ramayerle@charter.net
+	Selma McAlaster	Main Manor	4127	(541) 857-6157	macsel@gmail.com
+	Joanne McCann	Village Center Drive	1425	(541) 857-6044 (p)
+(541) 500-7119 (m)	jsmccann6368@gmail.com
+	Mavis McCombs	Main Manor	707	(541) 857-6189 (p)
+(925) 321-0578 (m)	mavismccombs@att.net
+	Coleen McCray	Main Manor	533	(541) 857-6602 (p)
+(623) 810-1205 (m)	jcaz1992@gmail.com
+	Jim McCray	Main Manor	533	(541) 857-6602 (p)
+(623) 810-1204 (m)	gdcamaro@yahoo.com
+	Helen McCrea	One Skyline Drive-Plaza	3402	(541) 857-6506 (p)
+(415) 351-1225 (m)	hjmccrea@gmail.com
+	Ralph McCulloh	Skyline Drive	1102	(541) 857-6767 (p)
+(254) 493-4656 (m)	ralphandjean@gmail.com
+	Craig McDonald	Main Manor	308	(541) 857-6318 (p)
+(509) 833-2201 (m)	acmd48@gmail.com
+	Pat McDonald	Meadow View Drive	1623	(541) 857-6638 (p)
+(541) 841-2795 (m)	Ppatmcdonald@aol.com
+	Patricia McElroy	Quail Point Terrace	2204	(541) 857-6524 (p)
+(541) 479-1187 (m)	moonbeam7@earthlink.net
+	Paul McElroy	Quail Point Terrace	2204	(541) 857-6524	starman7@earthlink.net
+	Lowell McGann	Rogue Valley Manor Drive	2412	(541) 857-6237	mcgannl@aol.com
+	Mary McGann	Rogue Valley Manor Drive	2412	(541) 857-6237 (p)
+(702) 524-9351 (m)	r2356luvr@aol.com
+	Janet McGary	Residential Livining	153	(541) 857-6889	jan@mcgarydds.com
+	John McGrew	Memory Support Center	320	(541) 857-6603 (p)
+(406) 250-0544 (m)	
+	Marilyn McGrew	Memory Support Center	304	(541) 857-6006 (p)
+(406) 249-7718 (m)	
+	Chris McKenzie	Quail Point Terrace	2217	(541) 857-6828 (p)
+(808) 256-2400 (m)	chrismckenzie4@me.com
+	Gary McLain	1091 Shannon Dr-House #2	1091SD	(541) 857-6158 (p)
+(541) 761-5040 (m)	mclaingary@gmail.com
+	David McLeod	Skyline Drive	1133	(541) 857-6869 (p)
+(541) 531-1505 (m)	davemcleod@aol.com
+	Lila McLeod	Skyline Drive	1133	(541) 857-6869 (p)
+(541) 531-0714 (m)	lilamcleod@aol.com
+	Sophia McMillen	Horizon Lane	1227	(541) 857-6976 (p)
+(458) 225-0330 (m)	sophiamcm1@aol.com
+	Mark McQueen	Shannon Drive-House #3	1099SD	(541) 857-6676 (p)
+(541) 773-6676 (m)	msmcq56@hotmail.com
+	Susan McQueen	Shannon Drive-House #3	1099SD	(541) 857-6676 (p)
+(541) 773-9749 (m)	smennovysusan29@gmail.com
+	Brooks Measures	Skyline Drive	1125	(541) 857-6525 (p)
+(805) 440-3138 (m)	bmeasures@gmail.com
+	Michael Measures	Skyline Drive	1125	(541) 857-6525 (p)
+(805) 440-3138 (m)	mmeasures3@gmail.com
+	Bill Meers	Horizon Lane	1225	(541) 857-6626 (p)
+(805) 542-0432 (m)	kaweah12@gmail.com
+	Nancy Mendenhall	Health Center	42	(541) 857-6046 (p)
+(541) 778-0189 (m)	nancy.mendenhall@gmail.com
+	Bobbie Merrill	Main Manor	1007	(541) 857-6434 (p)
+(808) 542-3983 (m)	bobbiegmerrill@aol.com
+	Tom Merrill	Main Manor	1007	(541) 857-6434 (p)
+(808) 286-3176 (m)	tmerrill@tommerrill.com
+	Candie Michael	One Skyline Drive-Plaza	3504	(541) 857-6072 (p)
+(541) 261-0245 (m)	candacem@homeinashland.net
+	Herb Michels	Rogue Valley Manor Drive	2413	(541) 857-6674 (p)
+(775) 741-2748 (m)	herb.michels6996@gmail.com
+	Ulrike Miglio	Pear Tree Lane	1311	(541) 857-6295 (p)
+(707) 513-7847 (m)	miglioro72@icloud.com
+	Leonard Migliore	Meadow View Drive	1615	(541) 857-6549 (p)
+(650) 575-4919 (m)	lm@laserk.net
+	Susan Migliore	Meadow View Drive	1615	(541) 857-6549 (p)
+(650) 575-4918 (m)	sm@laserk.net
+	Brant Miller	Rogue Valley Manor Drive	2405	(541) 857-6405 (p)
+(541) 261-9395 (m)	bikeflyer@comcast.net
+	Gary Miller	Shannon Drive	1207-1	(541) 857-6861	gmiller@mac.com
+	Klaus Miller	Main Manor	829	(541) 857-6698 (p)
+(530) 921-9319 (m)	watertender13@gmail.com
+	Lila Miller	Rogue Valley Manor Drive	2405	(541) 857-6405	lilmill@comcast.net
+	Louise Miller	Main Manor	829	(541) 857-6698 (p)
+(530) 921-9319 (m)	luluspic@gmail.com
+	Maggie Miller	Main Manor	503	(541) 857-6891 (p)
+(360) 280-6284 (m)	
+	Rob Miller	Horizon Lane	1202	(541) 857-6511	dorrob86@icloud.com
+	Tim Miller	Main Manor	503	(541) 857-6891 (p)
+(360) 280-6284 (m)	tennistim2@gmail.com
+	Michelle Minor	Meadow View Drive	1606	(541) 857-6286 (p)
+(510) 915-1243 (m)	michellelminor@gmail.com
+	Ed Miracle	Village Center Drive	1506	(541) 857-6019 (p)
+(925) 961-4364 (m)	edwardmiracle@yahoo.com
+	Jean Miracle	Village Center Drive	1506	(541) 857-6019 (p)
+(925) 963-2768 (m)	jeancmiracle@yahoo.com
+	Jackie Mitchell	Main Manor	929	(541) 857-6737 (p)
+(541) 841-4517 (m)	jmitchellinoregon@gmail.com
+	David Monczynski	Meadow View Drive	1604	(541) 857-6940 (p)
+(408) 887-3006 (m)	squealingtires@yahoo.com
+	Laura Monczynski	Meadow View Drive	1604	(541) 857-6940 (p)
+(408) 887-4035 (m)	monczynski@pacbell.net
+	Bob Mondi	Lake Village Drive	1718	(541) 857-6632 (p)
+(970) 391-0824 (m)	bobmondi@gmail.com
+	Barbara Moore	Village Center Drive	1402	(541) 857-6272 (p)
+(707) 845-9726 (m)	Bmoore55@sbcglobal.net
+	Fred Moore	Village Center Drive	1402	(541) 857-6272 (p)
+(458) 262-3457 (m)	fmoore8@sbcglobal.net
+	Gary Moore	Lake Village Drive	1708	(541) 857-6368 (p)
+(541) 646-2218 (m)	gmoore9169@aol.com
+	Sally Moore	Main Manor	812	(541) 857-6287	samoore805@gmail.com
+	Sue Moore	Care Suites	4136	(541) 857-6086	mmoorervm@gmail.com
+	Virginia Moore	Lake Village Drive	1708	(541) 857-6368 (p)
+(541) 646-2218 (m)	vmoore2@mac.com
+	Judy Moreland	Quail Point Circle	2116	(541) 857-6502 (p)
+(614) 582-0122 (m)	judymoreland39@gmail.com
+	Patty Morris	Main Manor	429	(541) 857-6864	pattywithay54@gmail.com
+	Eva Marie Morrish	Wildflower Drive	1801	(541) 857-6617 (p)
+(510) 612-2778 (m)	xbemrvm@gmail.com
+	Mary Jane Morrison	Main Manor	701	(541) 857-6927 (p)
+(541) 840-8773 (m)	docdocmorrison@aol.com
+	Lannette Moutos	Skyline Drive	1131	(541) 857-6704	weejobie@icloud.com
+	Thomas Mulder	Health Center	4141	(541) 857-6856 (p)
+(541) 499-8371 (m)	
+	Eric Muller	Rogue Valley Manor Drive	2411	(541) 857-6065 (p)
+(360) 961-5548 (m)	esmuller98@gmail.com
+	Fred Muller	Residential Living	199	(541) 857-6320 (p)
+(541) 840-5762 (m)	femuller2196943@gmail.com
+	Robert Mumby	One Skyline Drive-Plaza	3406	(541) 857-6412 (p)
+(541) 941-0301 (m)	wsjaybird@icloud.com
+	Dennis Murphy	Wildflower Drive	1802	(541) 857-6076 (p)
+(320) 491-8217 (m)	dqmurphy@yahoo.com
+	Sue Murray	Skyline Drive	1123	(541) 857-6363 (p)
+(808) 798-4048 (m)	sue96763@gmail.com
+	Lowell Nash	Main Manor	621	(541) 857-6187	lnsnash2@att.net
+	Sandy Nash	Main Manor	621	(541) 857-6187 (p)
+(619) 997-2881 (m)	lnsnash2@att.net
+	Larry Neeley	Main Manor	508	(541) 857-6195	lneeley@st-tel.net
+	Clayton Nelson	One Skyline Drive-Plaza	3212	(541) 857-6895 (p)
+(541) 646-8705 (m)	tangoclay@gmail.com
+	Karen Nelson	Memory Support Center	204	(541) 857-6078	
+	Anne Newins	Horizon Lane	1215	(541) 857-6651 (p)
+(209) 777-0990 (m)	annenewins@gmail.com
+	Thomas Newlon	Village Center Drive	1429	(541) 857-6954 (p)
+(757) 810-2417 (m)	tomn7777@gmail.com
+	Tucker Newlon	Village Center Drive	1429	(541) 857-6954 (p)
+(757) 871-8336 (m)	taxdodgertn@gmail.com
+	Pam Newton	Main Manor	1011	541-857-6987	pamnewton54@gmail.com
+	Anne Nicholson	Quail Point Circle	2102	(541) 857-6545 (p)
+(541) 941-3422 (m)	ednich2102@gmail.com
+	Deb Nicholson	Quail Point Circle	2113	(541) 857-6478 (p)
+(206) 200-8684 (m)	deborah.nicholson4981@gmail.com
+	Ed Nicholson	Quail Point Circle	2102	(541) 857-6545 (p)
+(541) 840-0750 (m)	ednich2102@gmail.com
+	Nick Nickerson	Main Manor	37	(541) 857-6702 (p)
+(541) 301-1397 (m)	
+	Sandra Niemann	Main Manor	433	(541) 857-6136 (p)
+(408) 859-4445 (m)	sandraniemann15@gmail.com
+	Kiki Noack	Quail Point Circle	2108	(541) 857-6547 (p)
+(707) 328-8576 (m)	stocktonkiki@gmail.com
+	Sarah Nordquist	Meadow View Drive	1634	(541) 857-6873 (p)
+(818) 618-1290 (m)	sarahnordquist1@gmail.com
+	Earl Norgard	Lake Village Drive	1711	(541) 857-6853 (p)
+(541) 936-5110 (m)	ekcruise55@gmail.com
+	Audree Note	Health Center	52	(541) 857-6722	
+	Eileen O'Callahan	Main Manor	804	(541) 857-6188 (p)
+(510) 387-1924 (m)	eocallah@gmail.com
+	Nancy O'Connell	One Skyline Drive-Plaza	3307	(541) 857-6382 (p)
+(541) 601-5381 (m)	noconnell3307@gmail.com
+	Lynn Ogren	Main Manor	918	(541) 857-6092	dogren@mac.com
+	Janet Oi	Main Manor	629	(541) 857-6319	oijanet1937@gmail.com
+	Ron Oi	Main Manor	629	(541) 857-6319 (p)
+(808) 224-9620 (m)	ronoizee36@gmail.com
+	Lee Olds	Village Center Drive	1424	(541) 857-6222	leeolds39@gmail.com
+	Joan Oliver	Main Manor	733	(541) 857-6437 (p)
+(541) 941-7737 (m)	jnkoliver@gmail.com
+	Marlene Olson	Meadow View Drive	1633	(541) 857-6265	marlene.olson9@gmail.com
+	Normita Olson	Main Manor	323	(541) 857-6326	
+	Georgia Ostenson	Pear Tree Lane	1327	(541) 857-6877 (p)
+(541) 740-3849 (m)	lifepugilist@gmail.com
+	Tammy Ostrander	One Skyline Drive-Plaza	3214	(541) 857-6782 (p)
+(218) 464-3945 (m)	Tostrand@css.edu
+	Nancy Ottis	One Skyline Drive-Plaza	3208	(541) 857-6635	nkb.ottis@gmail.com
+	Alexis Packer	Main Manor	314	(541) 857-6054 (p)
+(541) 601-5917 (m)	packer97520@gmail.com
+	Maria Cristina Page	Horizon Lane	1218	(541) 857-6660	maricris1542@yahoo.com
+	Jackie Parrish	Pear Tree Lane	1310	(541) 857-6867 (p)
+(541) 295-9029 (m)	jparrish810@gmail.com
+	Rich Passini	Main Manor	911	(541) 857-6575 (p)
+(541) 220-5846 (m)	rtpassini1@gmail.com
+	Karen Paxton	Memory Support Center	215		
+	Ken Paxton	Main Manor	721	(541) 857-6254 (p)
+(541) 291-7278 (m)	kpmaps2@gmail.com
+	Sandra Peat	Memory Support Center	312	(541) 857-6372	slpteach2k@gmail.com
+	Anne Pelish	Skyline Drive	1111	(541) 857-6402 (p)
+(775) 440-0606 (m)	annepelish@gmail.com
+	L R Pelish	Skyline Drive	1111	(541) 857-6402 (p)
+(775) 846-3249 (m)	pelishroger@yahoo.com
+	Glenda Pell	Memory Support Center	313	(541) 857-6718	
+	Ross Pelton	Skyline Drive	1113	(541) 857-6090 (p)
+(541) 601-1492 (m)	rosspelton70@gmail.com
+	Channing Penna	Skyline Drive	1128	(541) 857-6543 (p)
+(617) 733-5699 (m)	channingpenna@icloud.com
+	Peter Peregoy	Main Manor	613	(541) 857-6495 (p)
+(814) 525-4026 (m)	pperegoy@yahoo.com
+	Patrick Perkins	Quail Point Circle	2122	(541) 857-6746 (p)
+(925) 366-3609 (m)	pperkins@pperkins.net
+	Robert Perkins	Main Manor	612	(541) 857-6641	
+	Marilyn Perrin	Wildflower Circle	1902	(541) 857-6539 (p)
+(858) 539-6179 (m)	neddismom@gmail.com
+	David Pfaendler	Residential Living	77	(541) 857-6421 (p)
+(541) 661-3305 (m)	judy8116@aol.com
+	Judy Pfaendler	Residential Living	197	(541) 857-6431 (p)
+(541) 661-3305 (m)	judy8116@aol.com
+	Susan Pharis	Quail Point Circle	2109	(541) 857-6049 (p)
+(916) 599-0335 (m)	spharis6@gmail.com
+	Doug Phillips	Wildflower Circle	1908	(541) 857-6692 (p)
+(415) 806-4244 (m)	phillipstapp@me.com
+	Diane Plotts	Terrace	4304	(541) 857-6743 (p)
+(808) 838-9814 (m)	
+	Michael Polich	Village Center Drive	1419	(541) 857-6482 (p)
+(541) 601-5803 (m)	mpolich@proton.me
+	Sue Polich	Village Center Drive	1419	(541) 857-6482 (p)
+(458) 225-0975 (m)	spolich@proton.me
+	Eric Poppick	Wildflower Circle	1902	(541) 857-6539 (p)
+(858) 531-2520 (m)	zzchef@aol.com
+	Dorothy Powell	One Skyline Drive-Plaza	3309	(541) 857-6577 (p)
+(541) 897-2752 (m)	bd38powell@gmail.com
+	Bill Powell	Memory Support Center	315	(541) 857-6062	bd38powell@gmail.com
+	Jane Pramann	Health Center	23	(541) 857-6717	
+	Kay Presnell	Wildflower Drive	1809	(541) 857-6051 (p)
+(541) 816-8274 (m)	kbraigpresnell@gmail.com
+	Ron Presnell	Wildflower Drive	1809	(541) 857-6051	kbraigpresnell@gmail.com
+	Brenda Price	Main Manor	302	(541) 857-6668 (p)
+(707) 318-6776 (m)	
+	Marty Price	Main Manor	302	(541) 857-6668 (p)
+(707) 315-3049 (m)	mpricearchitect@yahoo.com
+	Dot Prideaux	Skyline Drive	1129	(541) 857-6554 (p)
+(541) 261-3467 (m)	dottieprideaux@gmail.com
+	Marion Prine	Main Manor	622	(541) 857-6988	maprine806@gmail.com
+	Donald Provence	Main Manor	319	(541) 857-6846 (p)
+(541) 930-1327 (m)	dprovence@mac.com
+	Lorus Purkerson	Main Manor	904	(541) 857-6513	purklee900@gmail.com
+	Marilyn Putnam	Care Suites	4117	(541) 857-6045	
+	Tom Pyle	Main Manor	608	(541) 857-6163 (p)
+(541) 324-7582 (m)	tompyle622@gmail.com
+	Amoena Quan	Rogue Valley Manor Drive	2414	(541) 857-6793 (p)
+(541) 857-6793 (m)	amoyquan@gmail.com
+	Susan Quinn	Main Manor	727	(541) 857-6570 (p)
+(732) 439-3218 (m)	quinns1@mac.com
+	Scott Ralston	One Skyline Drive-Plaza	3601	(541) 857-6446 (p)
+(541) 292-6901 (m)	scott@gsralston.com
+	Pru Randall Serraino	Village Center Drive	1410	(541) 857-6633	prurandall@gmail.com
+	Evelyn Rantzman	Memory Support Center	211	(541) 857-6349	
+	Rita Rapoza	Main Manor	823	(541) 857-6689 (p)
+(702) 513-2145 (m)	ritarapoza@yahoo.com
+	Dorre Ray	One Skyline Drive-Plaza	3306	(541) 857-6812	dorrelinray@gmail.com
+	Darla Reinecke	Manor Terrace	4413	(541) 857-6245 (p)
+(714) 987-3524 (m)	reineckeff@aol.com
+	Fred Reinecke	Manor Terrace	4413	(541) 857-6245 (p)
+(714) 987-3524 (m)	reineckeff@aol.com
+	Darlyne Reising	Quail Point Circle	2116	(541) 857-6502	djreising47@gmail.com
+	Rita Reitz	One Skyline Drive-Plaza	3403	(541) 857-6815 (p)
+(650) 207-0308 (m)	rreitz88@yahoo.com
+	Deborah Rennie	Main Manor	318	(541) 857-6937 (p)
+(541) 601-2851 (m)	deborahrennie@earthlink.net
+	Mike Renta	Quail Point Circle	2315	(541) 857-6008 (p)
+(760) 382-3445 (m)	mwrenta@gmail.com
+	Tommi Retzlaff	Village Center Drive	1421	(541) 857-6800	tommiretz@mac.com
+	John Retzlaff	Village Center Drive	1421	(541) 857-6800	retzmd@mac.com
+	Brian Rexon	Wildflower Drive	1805	(541) 857-6331 (p)
+(707) 328-7908 (m)	brexon12@gmail.com
+	Sue Rexon	Wildflower Drive	1805	(541) 857-6331 (p)
+(707) 328-7908 (m)	srexon12@gmail.com
+	Velma Rhodes	Memory Support Center	307	(541) 857-6912 (p)
+(805) 450-6028 (m)	
+	Carol Rice	Pear Tree Lane	1325	(541) 857-6970 (p)
+(541) 218-3124 (m)	bcrice@budget.net
+	Kathy Richards	Manor Terrace	4313	(541) 857-6270 (p)
+(541) 808-8978 (m)	kathybrichards@gmail.com
+	Lea Richards	Main Manor	908	(541) 857-6003	lrichardsrvm@yahoo.com
+	Karen Richardson	Main Manor	316	(541) 857-6840 (p)
+(916) 616-4749 (m)	karenandski@gmail.com
+	Jerry Richmond	Malama Way	1503	(541) 857-6608 (p)
+(808) 721-8682 (m)	richmondj1@mac.com
+	Jackie Riggs Jones	Terrace Residential Living	4203	(541) 857-6440	
+	Roberta Rinker-Ludloff	Meadow View Drive	1631	(541) 857-6227 (p)
+(808) 551-4344 (m)	rludloff@gmail.com
+	Eugene Ritter	Main Manor	404	(541) 857-6941	efritter@earthlink.net
+	Jan Ritter	Village Center Drive	1430	(541) 857-6682 (p)
+(541) 531-0128 (m)	hurleyritter@gmail.com
+	Ann Rizzolo	Skyline Drive	1101	(541) 857-6994 (p)
+(541) 944-7201 (m)	annrizzolo27@gmail.com
+	Patty Robb	One Skyline Drive-Plaza	3515	(541) 857-6900 (p)
+(808) 780-9130 (m)	pattyrobb41@gmail.com
+	Peter Robb	One Skyline Drive-Plaza	3515	(541) 857-6900 (p)
+(808) 232-7134 (m)	perobb1070@gmail.com
+	Sandy Roberts	Quail Point Terrace	2206	(541) 857-6561 (p)
+(425) 351-9706 (m)	Sandra.roberts.rvm@gmail.com
+	Bonnie Robertson	Main Manor	407	(541) 857-6248 (p)
+(541) 300-9717 (m)	
+	Pat Robins	Main Manor	818	(541) 857-6251 (p)
+(541) 941-9826 (m)	patrobinsrvm@gmail.com
+	Charlotte Robinson	Quail Point Cirlce	2115	(541) 857-6766	charotto2@gmail.com
+	Ivan Robinson	Quail Point Cirlce	2115	(541) 857-6766 (p)
+(831) 760-5530 (m)	ijras44@gmail.com
+	Linda Roe	Manor	531	(541) 857-6329 (p)
+(415) 299-3840 (m)	lindaroe@comcast.net
+	Sandy Rogers	One Skyline Drive-Plaza	3602	(541) 857-6755 (p)
+(808) 345-8824 (m)	nativenow2002@yahoo.com
+	Peggy Rosendahl	Village Center Drive	1426	(541) 857-6640 (p)
+(541) 218-6887 (m)	bobpegrvm@gmail.com
+	Annabel Ross	Terrace RL	4209	(541) 857-6141	rossblueriver@gmail.com
+	Janet Ross	Village Center Drive	1431	(541) 857-6224 (p)
+(650) 387-5916 (m)	janet91959@icloud.com
+	Robin Ross	Pear Tree Lane	1303	(541) 857-6645 (p)
+(408) 607-6350 (m)	crobinross@yahoo.com
+	Skip Ross	Village Center Drive	1431	(541) 857-6224 (p)
+(650) 387-5834 (m)	skip919@icloud.com
+	Sally Rountree	Main Manor	709	(541) 857-6194 (p)
+(202) 557-6412 (m)	sally.rountree@gmail.com
+	Jan Rowe	Village Center Drive	1401	(541) 857-6131 (p)
+(541) 941-1740 (m)	jurowe96@gmail.com
+	Emily Rued	One Skyline Drive-Plaza	3311	(541) 857-6752 (p)
+(707) 689-8295 (m)	ruedsolomon@sbcglobal.net
+	Michael Rugg	Wildflower Drive	1803	(541) 857-6175 (p)
+(805) 714-6738 (m)	vernon.rugg59@gmail.com
+	Vicki Rugg	Wildflower Drive	1803	(541) 857-6175 (p)
+(805) 714-6739 (m)	vickis.pals@gmail.com
+	Leanne Russell	Pear Tree Lane	1322	(541) 857-6980 (p)
+(541) 734-9412 (m)	leanne997r@gmail.com
+	Teiko Saito	Meadow View Drive	1632	(541) 857-6571 (p)
+(703) 772-1546 (m)	iteksaito@gmail.com
+	Irene Salomone	One Skyline Drive-Plaza	3502	(541) 857-6679 (p)
+(805) 660-6880 (m)	
+	Richard Salomone	One Skyline Drive-Plaza	3502	(541) 857-6679 (p)
+(805) 660-6880 (m)	salomonerichard@gmail.com
+	Sally Salsig	Memory Support Center	217	(541) 857-6732 (p)
+(541) 778-2378 (m)	spinningsally@gmail.com
+	Salome Sato	Main Manor	730	(541) 857-6067 (p)
+(808) 232-8541 (m)	salome789@gmail.com
+	Judi Saunders	Horizon Lane	1217	(541) 857-6129 (p)
+(760) 799-3541 (m)	jas@rdsaunders.com
+	Bob Saunders	Horizon Lane	1217	(541) 857-6129 (p)
+(760) 799-3540 (m)	rds@rdsaunders.com
+	Eleanor Savage	Shannon Drive-House #11	1211SD	(541) 857-6811 (p)
+(541) 531-1925 (m)	larrikin@msn.com
+	Donna Scebold	One Skyline Drive-Plaza	3407	(541) 857-6995 (p)
+(541) 613-6314 (m)	donajoy609@gmail.com
+	Joan Schaeffer	Terrace Residential Living	4207	(541) 857-6280	jlbschaeffer@gmail.com
+	Joyce Schaeffer	Care Suites	4140	(541) 857-6138	
+	Brian Schaible	Wildflower Circle	1910	(541) 857-6684 (p)
+(303) 489-7697 (m)	bschaible70@gmail.com
+	Janet Schaible	Wildflower Circle	1910	(541) 857-6684 (p)
+(303) 489-7776 (m)	janetschaible@gmail.com
+	Carolyn Schenler	Wildflower Drive	1806	(541) 857-6281	c.schenler@icloud.com
+	Leslie Schettler	Village Center Drive	1417	(541) 857-6387 (p)
+(310) 346-0471 (m)	lwschettler@gmail.com
+	Paul Schettler	Village Center Drive	1417	(541) 857-6387 (p)
+(310) 528-4066 (m)	npschettler@gmail.com
+	Carl Schneiderman	Pear Tree Lane	1320	(541) 857-6730 (p)
+(503) 317-4305 (m)	stscrs@gmail.com
+	Susan Schneiderman	Memory Support Center	216	(541) 857-6730	
+	Elke Scholl	Pear Tree Lane	1328	(541) 857-6837 (p)
+(208) 481-0017 (m)	runningtrout2@gmail.com
+	Art Schreiber	One Skyline Drive-Plaza	3609	(541) 857-6394	aschreiber@ashlandhome.net
+	Janet Schreiber	One Skyline Drive-Plaza	3609	(541) 857-6394 (p)
+(541) 944-6482 (m)	jschreiber@ashlandhome.net
+	Sherry Schroeder	One Skyline Drive-Plaza	3612	(541) 857-6050 (p)
+(541) 778-7334 (m)	sherryschroeder1969@gmail.com
+	Steve Schroeder	One Skyline Drive-Plaza	3612	(541) 857-6050 (p)
+(541) 778-7359 (m)	captaindietrich02@gmail.com
+	Deanna Schultz	Main Manor	526	(541) 857-6556 (p)
+(325) 642-5811 (m)	deanna537@gmail.com
+	Chuck Schwyn	Lake Village Drive	1704	(541) 857-6596 (p)
+(831) 236-0798 (m)	ceschwyn@charter.net
+	Lois Schwyn	Village Center Drive	1408	(541) 857-6596 (p)
+(650) 703-0701 (m)	loisjglover@gmail.com
+	Janet Scott	One Skyline Drive-Plaza	3206	(541) 857-6217 (p)
+(541) 646-6482 (m)	jerejanetscott@gmail.com
+	Olga Scrivner	Wildflower Drive	1812	(541) 857-6021 (p)
+(503) 804-2251 (m)	sospdx@gmail.com
+	Stan Scrivner	Wildflower Drive	1812	(541) 857-6021 (p)
+(503) 860-1493 (m)	sospdx@earthlink.net
+	Coralee Seale	Health Center	47	(541) 857-6497	
+	Doris Segner	Horizon Lane	1202	(541) 857-6511 (p)
+(541) 631-1305 (m)	dorrob86@icloud.com
+	Annette Shaffer	Meadow View Drive	1602	(541) 857-6854 (p)
+(541) 601-2810 (m)	
+	Gary Shaffer	Meadow View Drive	1602	(541) 857-6854 (p)
+(541) 944-1828 (m)	goskaj42@yahoo.com
+	Laura Sheats	One Skyline Drive-Plaza	3605	(541) 857-6192 (p)
+(410) 666-1959 (m)	sheatst@gmail.com
+	Anne Sheldon	One Skyline Drive-Plaza	3603	(541) 857-6947	
+	Tora Shikuwa	Shannon Drive	1207-1	(541) 857-6861	shikuwa@me.com
+	Carolyn Shirk	Wildflower Circle	1905	(541) 857-6294 (p)
+(619) 733-9449 (m)	shirkcarolyn37@gmail.com
+	Sue Silfvast	Rogue Valley Manor Drive	2407	(541) 857-6137 (p)
+(707) 260-4947 (m)	sue@silfvast.net
+	Bill Silfvast	Rogue Valley Manor Drive	2407	(541) 857-6137 (p)
+(541) 841-0834 (m)	silfvast@creol.ucf.edu
+	Adrienne Simmons	Skyline Drive-Plaza	3303	(541) 857-6618 (p)
+(503) 307-3595 (m)	adriennesipdx@gmail.com
+	Judy Simpson	Village Center Drive	1505	(541) 857-6971 (p)
+(541) 227-1085 (m)	simpsonjudy82@gmail.com
+	Linda Sindt	Quail Point Circle	2309	(541) 857-6375 (p)
+(541) 821-3482 (m)	
+	Doris Sjolund	Rogue Valley Manor Drive	2410	(541) 857-6646 (p)
+(541) 890-4624 (m)	dorissjolund@gmail.com
+	Don Sklar	Quail Point Terrace	2203	(541) 857-6461	donsst159@gmail.com
+	Maija Sklar	Quail Point Terrace	2203	(541) 857-6461	
+	Eileen Skoog	Main Manor	418	(541) 857-6296 (p)
+(541) 821-5292 (m)	eskoog@mind.net
+	Greg Skoog	Main Manor	418	(541) 857-6296 (p)
+(541) 326-8220 (m)	gskoog@mind.net
+	Bud Slagle	Quail Point Court	2130	(541) 857-6153 (p)
+(707) 498-2257 (m)	bd_slagle@att.net
+	Diane Slagle	Quail Point Court	2130	(541) 857-6153 (p)
+(707) 496-0311 (m)	bd_slagle@att.net
+	Richard Slivka	Quail Point Terrace	2201	(541) 857-6750 (p)
+(805) 215-8701 (m)	dmsavila007@gmail.com
+	Terry Slivka	Quail Point Terrace	2201	(541) 857-6750 (p)
+(805) 215-8700 (m)	avilagiggles@gmail.com
+	Johanna Snyder	Memory Support Center	214	(541) 857-6533	oregonjody@gmail.com
+	Russ Snyder	Horizon Lane	1209	(541) 857-6533	snyder_russ_l@hotmail.com
+	Carol Solomon	One Skyline Drive-Plaza	3311	(541) 857-6752 (p)
+(707) 689-8297 (m)	solomonrued@currently.com
+	Fred Sommer	One Skyline Drive-Plaza	3301	(541) 857-6386 (p)
+(650) 759-4872 (m)	fredsommer4@gmail.com
+	Ollie Sontag	Main Manor	165	(541) 857-6825	ollie5320@gmail.com
+	Lyn Soter	Horizon Lane	1212	(541) 857-6729 (p)
+(503) 880-7581 (m)	soterlb@yahoo.com
+	Anne Spacie	Main Manor	1033	(541) 857-6771 (p)
+(760) 547-6800 (m)	aspacie@gmail.com
+	Verne Speirs	One Skyline Drive-Plaza	3611	(541) 857-6916 (p)
+(916) 955-1252 (m)	vspeirs@yahoo.com
+	Linda Spence	Wildflower Circle	1913	(541) 857-6708 (p)
+(203) 984-0121 (m)	lindaspence30@gmail.com
+	Bob Spence	Wildflower Circle	1913	(541) 857-6708 (p)
+(203) 984-7920 (m)	robertmspence34nc@gmail.com
+	Linda Spratt	Main Manor	821	(541) 857-6989	lindaonlawrence@gmail.com
+	Cleve Spring	Quail Point Terrace	2209	(541) 857-6591 (p)
+(650) 349-6590 (m)	
+	Ida Rose Spring	Quail Point Terrace	2209	(541) 857-6591 (p)
+(650) 349-6590 (m)	
+	Jane St Claire	Horizon Lane	1210	(541) 857-6923 (p)
+(707) 292-5553 (m)	jsc@sonic.net
+	Ginny Stapp	Wildflower Circle	1908	(541) 857-6692 (p)
+(415) 806-4616 (m)	ginnystapp@me.com
+	Ann Starego	Malama Way	1504	(541) 857-6670 (p)
+(415) 515-9823 (m)	Astarego@aol.com
+	Karen Stefflre	Wildflower Drive	1807	(541) 857-6118 (p)
+(347) 538-3538 (m)	kstefflre@outlook.com
+	Marilyn Stein	Main Manor	312	(541) 857-6397 (p)
+(530) 521-7568 (m)	steinmj53@gmail.com
+	Victor Stevens	Skyline Drive	1119	(541) 857-6379	torrie2244@gmail.com
+	Dawn Stewart	Main Manor	729	(541) 857-6516	irelandawn@juno.com
+	Jim Stewart	Main Manor	729	(541) 857-6516	oregonduck@juno.com
+	Heide Stock Brady	Wildflower Circle	1909	(541) 857-6333 (p)
+(541) 210-4605 (m)	hstockbrady@gmail.com
+	Pat Stocker	Care Suites	4111	(541) 857-6399	pgundersonstocker@gmail.com
+	Jill Stoecker	Horizon Lane	1203	(541) 857-6748 (p)
+(720) 570-6017 (m)	bobjillc2@yahoo.com
+	Bob Stoecker	Horizon Lane	1203	(541) 857-6748 (p)
+(303) 444-3979 (m)	bobjillc2@yahoo.com
+	David Stone	Village Center Drive	1404	(541) 857-6925 (p)
+(541) 625-3919 (m)	dstonejazz@gmail.com
+	Deborah Stone	Meadow View Drive	1610	(541) 857-6112 (p)
+(541) 944-7650 (m)	debbie@csaplanning.com
+	Marisa Stone	Village Center Drive	1404	(541) 857-6925 (p)
+(541) 631-9992 (m)	mstone11@att.net
+	Art Strunk	Main Manor	730	(541) 857-6067 (p)
+(541) 441-6270 (m)	ahstrunk2@gmail.com
+	Barbara Sturtevant	Skyline Drive	1127	(541) 857-6451	bcsturtev@gmail.com
+	Anita Sumariwalla	Main Manor	2111	(541) 857-6606 (p)
+(541) 613-3338 (m)	anitabanoo@gmail.com
+	Russy Sumariwalla	Main Manor	2111	(541) 857-6606 (p)
+(541) 613-0678 (m)	russy4100@gmail.com
+	Gene Summerville	Main Manor	309	(541) 857-6915 (p)
+(650) 450-6868 (m)	gene.summerville@gmail.com
+	Dan Sylvester	Main Manor	402	(541) 857-6147 (p)
+(541) 890-6856 (m)	joindan@gmail.com
+	Bruce Taylor	Shannon Drive	1207-2	(541) 857-6879	bftaylor45@icloud.com
+	Susan Taylor	Shannon Drive	1207-2	(541) 857-6879	bftaylor45@icloud.com
+	Ian Templeton	One Skyline Drive-Plaza	3303	(541) 857-6618 (p)
+(503) 307-3595 (m)	ian.templeton2@gmail.com
+	Creed Terry	Wildflower Drive	1808	(541) 857-6094	crterry@hotmail.com
+	Mickie Terry	Wildflower Drive	1808	(541) 857-6094	mickieterry@outlook.com
+	Molly Thibedeau	Meadow View Drive	1614	(541) 857-6099 (p)
+(541) 499-1991 (m)	mollythibs549@gmail.com
+	Gordon Thomas	Manor Terrace	4407	(541) 857-6229 (p)
+(541) 778-6435 (m)	sunvlyrvm@icloud.com
+	Wayne Thomas	One Skyline Drive-Plaza	3314	(541) 857-6914 (p)
+(541) 210-4415 (m)	whthomas_0923@yahoo.com
+	Jim Thompson	One Skyline Drive-Plaza	3514	(541) 857-6951	
+	Karin Thompson	One Skyline Drive-Plaza	3514	(541) 857-6951 (p)
+(208) 863-9973 (m)	
+	Lydia Thompson	Main Manor	713	541-857-6197	lydel@mind.net
+	Jan Thorley	Village Center Dr.	1418	(541) 857-6671 (p)
+(541) 857-0237 (m)	jagthorley@gmail.com
+	Mark Tollefson	One Skyline Drive-Plaza	3201	(541) 857-6713 (p)
+(484) 394-8439 (m)	mvtollefson@gmail.com
+	Sally Toney	Pear Tree Lane	1302	(541) 857-6913 (p)
+(202) 674-4043 (m)	tigergroup3@aol.com
+	Erin Tout	Main Manor	324	(541) 857-6214 (p)
+(541) 625-3848 (m)	xpinkerin@gmail.com
+	Bill Tout	One Skyline Drive-Plaza	3215	(541) 857-6097	rvmWilliam@gmail.com
+	Leslie Train	Skyline Drive	1112	(541) 857-6427	ltrain494@yahoo.com
+	Cathy Travis	Quail Point Circle	2312	(541) 857-6590 (p)
+(503) 819-5312 (m)	catherinestravis@gmail.com
+	Art Trimble	Skyline Drive	1120	(541) 857-6433 (p)
+(925) 366-5653 (m)	atrimble2u@yahoo.com
+	MaryAlice Trombley	One Skyline Drive-Plaza	3405	(541) 857-6997 (p)
+(808) 265-6333 (m)	ma_hono@hotmail.com
+	Raymond Trombley	One Skyline Drive-Plaza	3405	(541) 857-6997 (p)
+(808) 265-6333 (m)	raygtrombley@gmail.com
+	Rick Troxel	Horizon Lane	1223	(541) 857-6519 (p)
+(541) 817-6647 (m)	booksnguitar@gmail.com@yahoo.com
+	Sharon Troxel	Horizon Lane	1223	(541) 857-6519 (p)
+(541) 282-4648 (m)	booksnguitar@gmail.com
+	Art Trujillo	Meadow View Drive	1611	(541) 857-6149 (p)
+(707) 494-9294 (m)	antrujillo@sonic.net
+	Nan Trujillo	Meadow View Drive	1611	(541) 857-6149 (p)
+(707) 494-9294 (m)	antrujillo@sonic.net
+	Michael Trump	Main Manor	322	(541) 857-6432 (p)
+(541) 531-5681 (m)	mtrump1@gmail.com
+	Gail Tull	Main Manor	1031	(541) 857-6526 (p)
+(510) 421-0236 (m)	gala2rvm@gmail.com
+	Bonny Turner	Manor Terrace	4205	(541) 857-6625 (p)
+(650) 353-6274 (m)	turner.bonny@yahoo.com
+	Brinton Turner	Care Suites	4124	(541) 857-6203	
+	Will Van Ert	Lake Village Drive	1705	(541) 857-6829 (p)
+(541) 778-0995 (m)	willvanert@aol.com
+	Vicky Van Saun	Care Suites	4115	(541) 857-6938	
+	Carol Van Verst-Rugg	Meadow View Drive	1635	(541) 857-6403	carolrugg@me.com
+	Judy VanZile	One Skyline Drive-Plaza	3408	(541) 857-6174	jvztwo@yahoo.com
+	Tina Vasavada	Meadow View Drive	1622	(541) 857-6804	tinavas3@gmail.com
+	RC Vasavada	Meadow View Drive	1622	(541) 857-6804	ravinvas@gmail.com
+	Carol Vaughan	Meadow View Drive	1605	(541) 857-6081 (p)
+(707) 433-8988 (m)	teamsparky2020@gmail.com
+	Joe Vaughan	Meadow View Drive	1605	(541) 857-6081 (p)
+(707) 433-8884 (m)	josephvaughan@comcast.net
+	William Vaughan	Care Suites	4113	(541) 857-6644 (p)
+(650) 704-6688 (m)	dvw1@mac.com
+	Bob Vaughn	Terrace Residential Living	4220	(541) 857-6035	
+	Ed Verdurmen	Pear Tree Lane	1316	(541) 857-6565 (p)
+(503) 930-2254 (m)	ehv97201@aol.com
+	Dan Wagner	Wildflower Circle	1907	(541) 857-6414 (p)
+(650) 996-3418 (m)	danwagner56@gmail.com
+	Howard Wagner	Care Suites	4123	(541) 857-6176	
+	Maria Wahl	Village Center Drive	1415	(541) 857-6517	mariawahl1@sbcglobal.net
+	Nancy Walden	Lake Village Drive	1722	(541) 857-6264 (p)
+(808) 721-2012 (m)	nancywalden1@gmail.com
+	Bob Walden	Lake Village Drive	1712	(541) 857-6624 (p)
+(503) 488-9879 (m)	walden104@gmail.com
+	Ann Walker	Pear Tree Lane	1308	(541) 857-6487 (p)
+(408) 529-5571 (m)	hugapup@sbcglobal.net
+	Madge Walls	Main Manor	412	(541) 857-6634 (p)
+(719) 440-5931 (m)	majwalls@comcast.net
+	Judith Ward	Memory Support Center	310	(541) 857-6284 (p)
+(650) 740-1992 (m)	jpward@pacbell.net
+	Robert Ward	Memory Support Center	311	(541) 857-6540	rfward@pacbell.net
+	Diane Ware	Pear Tree Lane	1309	(541) 857-6527 (p)
+(541) 944-6562 (m)	booshu@aol.com
+	Peter Ware	Pear Tree Lane	1309	(541) 857-6527	flyfishman@aol.com
+	Gary Warner	Skyline Drive	1116	(541) 857-6711 (p)
+(541) 601-0606 (m)	renraw62@gmail.com
+	Dottie Wasley	Main Manor	720	(541) 857-6563	dottiewasley@gmail.com
+	Joan Wayland	Horizon Lane	1213	(541) 857-6838 (p)
+(541) 331-0319 (m)	jptwayland@gmail.com
+	Jon Wayland	Horizon Lane	1213	(541) 857-6838 (p)
+(541) 331-0318 (m)	jonwayland@gmail.com
+	Priscilla Weaver	Meadow View Drive	1620	(541) 857-6756 (p)
+(541) 890-3890 (m)	ppw160@gmail.com
+	Steve Weaver	Meadow View Drive	1620	(541) 857-6756 (p)
+(541) 973-8903 (m)	sgw160@gmail.com
+	Carol Weckman	Manor Terrace	4404	(541) 857-6764 (p)
+(858) 279-0596 (m)	carol.weckman@gmail.com
+	Robert Weckman	Manor Terrace	4404	(541) 857-6764 (p)
+(858) 279-0596 (m)	robweckman@gmail.com
+	Peggy Weeden	Quail Point Circle	2120	(541) 857-6215 (p)
+(831) 246-0052 (m)	pweeden@yahoo.com
+	Carolyn Weihl	Main Manor	809	(541) 857-6902 (p)
+(707) 391-6591 (m)	bilboamay@yahoo.com
+	John Weiner	Village Center Drive	1508	(541) 857-6475 (p)
+(818) 384-6591 (m)	retjon251@gmail.com
+	Dale Wessels	Skyline Drive	1132	(541) 857-6532	
+	Jill West	Skyline Drive	1117	(541) 857-6449 (p)
+(360) 442-8920 (m)	jillwest4@comcast.net
+	Jean Wetenkamp	Rogue Valley Manor Drive	2408	(541) 857-6426	judge@scean.com
+	Scott Wetenkamp	Rogue Valley Manor Drive	2408	(541) 857-6426 (p)
+(650) 823-3589 (m)	s.wetenkamp@scean.com
+	Marion Whitcomb	Health Center	21	(541) 857-6731	
+	Janice White	Memory Support Center	317	(541) 857-6594	
+	Rusty White	One Skyline Drive-Plaza	3414	(541) 857-6957 (p)
+(541) 530-0399 (m)	rustybobirvm@gmail.com
+	Daleen Wilkins	One Skyline Drive-Plaza	3506	(541) 857-6500 (p)
+(541) 840-8067 (m)	sanddw@aol.com
+	Jaci Wilkins	Meadow View Drive	1629	(541) 857-6124 (p)
+(208) 720-1178 (m)	jaciwilkins@gmail.com
+	Mason Wilkins	Meadow View Drive	1629	(541) 857-6124 (p)
+(208) 720-9284 (m)	rmasonwilkins@gmail.com
+	Janice Williams	Meadow View Drive	1621	(541) 857-6300	janice.m.williams@gmail.com
+	Jean Williams	Care Suites	4134	(541) 857-6208	sonoma7@gmail.com
+	Jody Willis	Meadow View Drive	1607	(541) 857-6996 (p)
+(802) 238-1497 (m)	jodyinoregon@gmail.com
+	Tawney Willis	Main Manor	833	(541) 857-6344 (p)
+(707) 599-1235 (m)	tawneyphil@att.net
+	Fred Willms	One Skyline Drive-Plaza	3412	(541) 857-6166	fredwillms11@gmail.com
+	Bruce Wilson	Main Manor	711	(541) 857-6619 (p)
+(812) 508-4795 (m)	
+	Jesse Wilson	Quail Point Circle	2106	(541) 857-6063 (p)
+(916) 947-1838 (m)	goldrvr3@pacbell.net
+	Ken Wilson	Meadow View Drive	1619	(541) 857-6631 (p)
+(541) 301-1912 (m)	kcwrvm@gmail.com
+	Pam Wilson	Main Manor	523	(541) 857-6460 (p)
+(619) 227-5139 (m)	pswbend@gmail.com
+	Susan Wilson	Meadow View Drive	1619	(541) 857-6631 (p)
+(541) 301-8072 (m)	stwrvm@gmail.com
+	Terri Wilson	Quail Point Circle	2106	(541) 857-6063 (p)
+(916) 952-6936 (m)	bonchancetw@gmail.com
+	Winnie Wilson	Main Manor	512	(541) 857-6411 (p)
+(209) 920-3121 (m)	peichan@comcast.net
+	Kayleen Winkler	Main Manor	501	(541) 857-6079 (p)
+(541) 621-6021 (m)	kayleen.w@gmail.com
+	Patty Winter	Pear Tree Lane	1305	(541) 857-6371 (p)
+(408) 821-9642 (m)	patty@wintertime.com
+	Serita Woodburn	One Skyline Drive-Plaza	3313	(541) 857-6401 (p)
+(831) 899-2121 (m)	seritasue@comcast.net
+	Leila Wrathall	Quail Point Circle	2312	(541) 857-6590 (p)
+(503) 869-7757 (m)	hoyt.pnw@gmail.com
+	Kim Wu	Main Manor	927	(541) 857-6623 (p)
+(858) 405-6212 (m)	
+	YC Wu	Main Manor	926	(541) 857-6623 (p)
+(858) 228-7524 (m)	
+	Lawson Wylie	Pear Tree Lane	1313	(541) 857-6598 (p)
+(541) 840-7336 (m)	mklpwylie@gmail.com
+	Kay Wylie	Pear Tree Lane	1313	(541) 857-6598	mklpwylie@gmail.com
+	Virginia Yankoskie	Skyline Drive	1108	(541) 857-6809 (p)
+(541) 261-3649 (m)	y4nk0sv@gmail.com
+	Frances Yates	One Skyline Drive-Plaza	3501	(541) 857-6018	feyaz0702@gmail.com
+	George Yates	One Skyline Drive-Plaza	3501	(541) 857-6018 (p)
+(928) 221-2190 (m)	gyates992@gmail.com
+	Gloria Young	Manor Terrace	4302	(541) 857-6611 (p)
+(707) 494-4690 (m)	glryng@gmail.com
+	Janice Young	One Skyline Drive-Plaza	3210	(541) 857-6220 (p)
+(509) 945-0025 (m)	raejaypgg@aol.com
+	Jeff Young	Manor Terrace	4302	(541) 857-6611 (p)
+(707) 322-3221 (m)	jffyng@gmail.com
+	Kenneth Young	Lake Village Drive	1702	(541) 857-6438	youngkc@prodigy.net
+	Mary Young	Village Center Drive	1413	(541) 857-6843 (p)
+(808) 372-0281 (m)	mkay1945@gmail.com
+	Phyllis Young	Lake Village Drive	1702	(541) 857-6438 (p)
+(925) 348-6030 (m)	youngkc@prodigy.net
+	Tom Young	Village Center Drive	1413	(541) 857-6843 (p)
+(808) 778-0119 (m)	tom.young.woodturner@gmail.com
+	Mari Zaitsu	Rogue Valley Manor Drive	2416	(541) 857-6876 (p)
+(541) 778-4607 (m)	marizaitsu@gmail.com
+	Mori Zaitsu	Rogue Valley Manor Drive	2416	(541) 857-6876 (p)
+(541) 778-4608 (m)	svopapa1012@gmail.com
+	Anne Zauner	Main Manor	924	(541) 857-6882 (p)
+(208) 720-0721 (m)	anne@annezauner.com
+	Willi Zilkey	Main Manor	320	(541) 857-6871 (p)
+(805) 235-1288 (m)	willizilkey@gmail.com

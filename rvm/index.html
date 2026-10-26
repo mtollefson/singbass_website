@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Subdirectory File Viewer with Google Docs</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; background-color: #f9f9f9; color: #333; }
+        h2 { border-bottom: 2px solid #ddd; padding-bottom: 10px; }
+        table { width: 100%; border-collapse: collapse; background: white; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        th, td { padding: 12px 15px; border-bottom: 1px solid #eee; text-align: left; }
+        th { background-color: #f4f4f4; }
+        .actions a { 
+            text-decoration: none; 
+            padding: 6px 12px; 
+            border-radius: 4px; 
+            font-size: 14px; 
+            margin-right: 6px; 
+            display: inline-block;
+        }
+        .btn-view { background-color: #007bff; color: white; }
+        .btn-view:hover { background-color: #0056b3; }
+        .btn-gdocs { background-color: #6c757d; color: white; }
+        .btn-gdocs:hover { background-color: #5a6268; }
+        .btn-download { background-color: #28a745; color: white; }
+        .btn-download:hover { background-color: #1e7e34; }
+    </style>
+</head>
+<body>
+
+    <h2>Subdirectory File List</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>File Name</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Native Viewable File (Text) -->
+            <tr>
+                <td>notes.txt</td>
+                <td class="actions">
+                    <a href="notes.txt" target="_blank" class="btn-view">View</a>
+                    <a href="notes.txt" download class="btn-download">Download</a>
+                </td>
+            </tr>
+            
+            <!-- Document File (.docx) using Google Docs Viewer -->
+            <tr>
+                <td>proposal.docx</td>
+                <td class="actions">
+                    <a href="#" class="btn-gdocs dynamic-gdocs" data-file="proposal.docx">View (Google Docs)</a>
+                    <a href="proposal.docx" download class="btn-download">Download</a>
+                </td>
+            </tr>
+
+            <!-- Spreadsheet File (.xlsx) using Google Docs Viewer -->
+            <tr>
+                <td>budget.xlsx</td>
+                <td class="actions">
+                    <a href="#" class="btn-gdocs dynamic-gdocs" data-file="budget.xlsx">View (Google Docs)</a>
+                    <a href="budget.xlsx" download class="btn-download">Download</a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <script>
+        // Automatically generate the absolute Google Docs Viewer URL for any file marked with 'dynamic-gdocs'
+        document.querySelectorAll('.dynamic-gdocs').forEach(link => {
+            const fileName = link.getAttribute('data-file');
+            // Creates the absolute URL based on the current GitHub Pages path
+            const absoluteUrl = new URL(fileName, window.location.href).href;
+            // Sets the href to Google's viewer endpoint
+            link.href = `https://docs.google.com/viewer?url=${encodeURIComponent(absoluteUrl)}`;
+            link.target = '_blank';
+        });
+    </script>
+
+</body>
+</html>
